@@ -487,6 +487,8 @@ Para garantizar la seguridad de EcoMove, se implementará una sólida estrategia
 # Bibliografía
 
 
+Alvarado, J. (8 de diciembre de 2021). _Conoce RAECO, la app que impulsa el reciclaje de residuos electrónicos_. TecnoEmpresa. https://tecnoempresa.mx/index.php/2021/12/08/raeco-la-app-que-impulsa-el-reciclaje-de-residuos-electronicos/
+
 Espinoza, A. (18 de agosto de 2023). _Vehículos viejos y transporte público causan el 58% de contaminación del aire en Lima_. Infobae. https://www.infobae.com/peru/2023/08/18/vehiculos-viejos-y-transporte-publico-causan-el-58-de-contaminacion-del-aire-en-lima/
 
 Romero, V., Salazar, L., Solís, A. & Solís, J. (2022). Congestión Vehicular y Contaminación Ambiental en Lima Metropolitana. _Revista Lasallista de Investigación_, _19_(1), 152-164.
