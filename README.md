@@ -5,19 +5,17 @@
 **Ciclo 2024-01**
 
 # COURSE PROJECT
-### Profesor: Elio Jefferrson Navarrete Vilca
+### Profesor: Hugo Allan Mori Paiva
 ### Curso: Desarrollo de Aplicaciones Open Source
 # FINAL REPORT
-## Startup: EcoGo
-## Propuesta: EcoMove
+## Startup: 
+## Propuesta: 
 **Team Members**
-- Ames Oviedo, Mariano José
-- Coraje Bayona, Jair Andreé
-- Horna Silva, Fabio Ernesto
-- Lecca Choccare, Christopher Bryan
-- Sosa Colca, Angello Rodolfo
-- Tongo Alejando, Milagros Salet
-  
+- Chamorro Acero, Salvador Edward      
+- Palomino Fano, Cristhofer Sebastian  
+- Morales Montalvo, Omar Andrew
+
+
 
 **Marzo 2024**
 
@@ -39,12 +37,9 @@
       <td>1era</td>
       <td>20/03/2024</td>
       <td>
-        - Ames Oviedo, Mariano José <br>
-        - Coraje Bayona, Jair Andreé <br>
-        - Horna Silva, Fabio Ernesto <br>
-        - Lecca Choccare, Christopher Bryan <br>
-        - Sosa Colca, Angello Rodolfo <br>
-        - Tongo Alejando, Milagros Salet <br>
+        - Chamorro Acero, Salvador Edward <br>   
+        - Palomino Fano, Cristhofer Sebastian <br>
+        - Morales Montalvo, Omar Andrew <br>
       </td>
       <td>
         Capítulo I: Introducción <br>
@@ -236,18 +231,9 @@ En RecyTech, creemos en el poder de la tecnología para generar un impacto posit
 
 |<!-- -->|<!-- -->|
 |--------|--------|
-|Nombre|Ames Oviedo, Mariano José (U202211371)|
-|Soy Mariano, tengo 18 años actualmente curso mi 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable y dispuesta a afrontar desafíos. Considero que estas cualidades beneficiaran a mi equipo para poder completar un trabajo de calidad.||
-|Nombre|Coraje Bayona, Jair Andreé (U202118775)|
-|Soy Jair, tengo 19 años actualmente estoy cursando la carrera de Ingeniería de Software. Considero que puedo adaptarme a las situaciones que se me proponga en el equipo, logrando aportar en este de buena manera, para asegurar un trabajo bien hecho. Adémas siento que mis habilidades para aprender me van a poder ayudar a completar el curso de manera eficiente y apoyar a mi equipo en lo que se pueda..||
-|Nombre|Horna Silva, Fabio Ernesto (U202020229)|
-|.||
-|Nombre|Lecca Choccare, Christopher Bryan (U202211399)|
-|Soy Christopher, tengo 19 años y actualmente curso mi 5to ciclo de la carrera de Ingeniería de Software. Considero que mi determinación y disposición aportarán de manera significativa a presentar junto a mi equipo, trabajos de calidad. Además, mi capacidad rápida de aprendizaje ayudará a emplear las nuevas tecnologías enseñadas en el curso de forma eficiente.||
-|Nombre|Sosa Colca, Angello Rodolfo (U202212027)|
-|Tengo 18 años y curso el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, soy una persona enfocada, perseverante y colaborativo. Estas cualidades me permiten ser una persona que ayudará de manera óptima el requisito que se me imponga. Además, soy una persona que apoya cuando los demás se encuentran en problemas.||
-|Nombre|Tongo Alejandro, Milagros Salet (U202116078)|
-|Tengo 19 años y curso el 5to ciclo de la carrera de Ingeniería de Software. Me parece muy interesante crear soluciones en el computador y me gusta aprender cosas nuevas, como por ejemplo nuevos lenguajes de programación. Me considero una persona habilidosa y responsable.||
+|Nombre|Morales Montalvo, Omar Andrew (U202212383)|
+|Soy Omar Andrew Morales Montalvo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, estoy cursando en quinto ciclo y actualmente tengo 18 años, soy colaborativo, responsable y proactivo, tratando de ayudar a los demás en lo que mi alcance me lo permita. Por ello, actuare de igual manera con mi grupo apoyando en lo más que pueda en los trabajos futuros. ||
+
 
 ## 1.2. Solution Profile
 ### 1.2.1	Antecedentes y problemática
@@ -273,44 +259,43 @@ Los equipos electrónicos obsoletos pueden ser almacenados temporalmente antes d
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statement
-Nuestro contexto demanda abordar la dificultad que enfrentan las personas que no pueden conseguir un medio de transporte eficaz y seguro,
-Si bien se presentan opciones, estas no siempre demuestran ser eficaces debido a la congestión vehicular de la ciudad.
+El Perú enfrenta un desafío significativo en la gestión de desechos electrónicos debido al aumento en la adopción de tecnología y dispositivos electrónicos en los últimos años. La falta de regulación sólida ha resultado en una disposición inadecuada de estos desechos, contribuyendo a la contaminación ambiental y problemas de salud pública. Es crucial desarrollar políticas y prácticas efectivas de gestión de desechos electrónicos que promuevan la reutilización, el reciclaje y la disposición adecuada para proteger el medio ambiente y la salud de la población peruana.
 
-Tambien se puede observar una falta de opciones que sean limpias para el medio ambiente. Aunque el estado muestra preocupación  implementando medidas que apoyen a este contexto, aun no se logra una solución eficaz, segura y limpia para todos.
-
-Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer medios de transporte efectivos para las personas y limpios para el bien ambiente, teniendo en cuenta tambien la seguridad y comodidad del usuario?
+Ante esta situación, surge nuestra pregunta de negocio: ¿Como podemos ayudar a las personas para que accedan a tecnologia contribuyendo asi al medio ambiente?
 
 #### 1.2.2.2 Lean UX Assumptions
 
-1. **Falta de medios de transporte eficazes:** Al no existir un medio de transporte eficaz, seguro y limpio, se refleja la demanda de un servicio como el que ofrecemos.
+- Business Assumptions:
 
-2. **Precios elevados de combustible:** Al existir un alza de precios en los combustibles utilizados por los vehiculos convencionales, los usuarios buscaran una alternativa, respaldando la viabilidad de nuestro negocio centrado en vehiculos no convencionales.
+1. Demanda del mercado: Suponemos que existe una demanda suficiente de componentes electrónicos usados y nuevos para justificar la creación de una plataforma de compraventa especializada.
 
-3. **La tecnologia ayudara a los usuarios a acceder rapidamente a vehiculos:** Al brindarle al usuario una alternativa tecnologica con la que pueda encontrar vehiculos de manera sencilla se puede mejorar la experiencia de los usuarios y lograr tener un mayor alcance.
+2. Atracción de vendedores: Suponemos que los vendedores estarán interesados en utilizar nuestra plataforma, especialmente si les ofrecemos un servicio de garantía de recompra y la posibilidad de llegar a una audiencia más amplia.
 
-4. **Existe una preocupación ambiental por parte de la poblacion:** Al mostrar una solución que puede mejorar las soluciones existentes a la problematica ambiental podemos lograr un mayor interes por parte de los usuarios en nuestro producto.
+3. Sostenibilidad económica: Suponemos que el modelo de negocio basado en suscripciones y comisiones por ventas nos permitirá generar suficientes ingresos para mantener la plataforma y ofrecer los servicios adicionales prometidos.
 
-5. **Los transportes convencionales tambien se verian beneficiados:** Al ofrecer alternativas de transporte para las personas, podriamos tambien resolver en parte la congestión vehicular en algunas zonas, beneficiando tambien a los medios de transporte convencionales.
+- Business Outcomes:
+  
+1. Generación de ingresos: Esperamos generar ingresos consistentes a través de las suscripciones de los vendedores y las comisiones por las ventas realizadas en la plataforma.
 
-6. **Entre los beneficios que estarán a disposición del usuario, se encuentran:**
+2. Crecimiento de la base de usuarios: Esperamos atraer y retener a un número creciente de usuarios, tanto vendedores como compradores, a medida que nuestra plataforma se convierta en un destino popular para la compraventa de componentes electrónicos.
 
-- **Facilidad de encontrar alternativas a los medios de transporte convencionales:** Los usuarios podran encontrar alternativas a sus medios de transporte tradicionales de manera sencilla por medio de nuestro producto, mejorando su experiencia en general al no presentar dificultades al movilizarse.
+3. Construcción de marca: Esperamos establecer nuestra marca como una autoridad en el mercado de componentes electrónicos usados y nuevos, asociada con la confiabilidad y la equidad en las transacciones.
 
-- **Mejora al transportarse:** Se le da a los usuarios una mejora en su transporte tradicional, al usar las alternativas que ofrece nuestro producto pueden lograr moverse de manera mas rapida y comoda.
+- User Benefits:
 
-- **Variedad de opciones:** Los usuarios tendran acceso a diferentes tipos de vehiculos o tarifas, dependiendo de lo que requieran en el momento. Todo el proceso sera por medio de la aplicación, facilitando y mejorando su experiencia. 
+1. Acceso a tecnología asequible: Los usuarios de bajos recursos podrán acceder a componentes electrónicos a precios más bajos, lo que les permitirá participar en proyectos y actividades que de otra manera no podrían permitirse.
 
-- **Satisfacción emocional:** Los usuarios podran ver datos sobre el impacto ambiental de los medios de transporte, dandole satisfacción al usuario al poder ver los resultados de las acciones que realiza en el ambiente.
-
+2. Facilidad de transacción: Tanto los compradores como los vendedores se beneficiarán de una plataforma fácil de usar que simplifica el proceso de compraventa de componentes electrónicos y ofrece garantías adicionales para las transacciones.
+   
+3. Oportunidad de ingresos: Los vendedores tendrán la oportunidad de ganar dinero vendiendo componentes electrónicos no deseados o excedentes, con la garantía de que recibirán un retorno, ya sea a través de la venta del producto o mediante el reembolso completo si no se vende.
+  
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **Creemos que** al brindar una manera eficaz, segura y limpia de transportarse a los usuarios, se sentiran mas atraidos a utilizar el medio de transporte que utilizamos. **Sabremos que** hemos tenido exito, **cuando** veamos una mayor cantidad de usuarios utilizando el producto y utilizando los beneficios que les brindamos.
+- **Creemos que** al proporcionar acceso a componentes electrónicos a precios más bajos, especialmente para usuarios de bajos recursos. **Sabremos que** hemos tenido exito, **cuando** observemos un aumento en la participación de este grupo demográfico en nuestra plataforma y recibamos comentarios positivos sobre la asequibilidad de nuestros productos.
 
-- **Creemos que** al brindar alternativas de transporte limpio a la población, reduciremos la problematica de la contaminación en el país. **Sabremos que** hemos tenido exito **cuando** se evidencie una mejora en la contaminación presente actualmente.
+- **Creemos que** al implementar un sistema de suscripción para los vendedores que incluya una garantía de recompra y la opción de establecer deadlines para la venta de productos. **Sabremos que** hemos tenido exito **cuando** veamos un incremento significativo en el número de suscripciones activas y una mayor frecuencia de listado de productos por parte de los vendedores.
 
-- **Creemos que** al brindar una aplicación facil y comoda de usar, podremos llegar a publico que usualmente no se encontraria atraido a este tipo de transportes. **Sabremos que** hemos tenido exito **cuando** podamos observar una mayor variedad y cantidad de personas utilizando nuestro producto.
-
-- **Creemos que** al brindar alternativas a los automoviles tradicionales, lograremos disminuir el tiempo perdido por trafico de carros en la ciudad. **Sabremos que** hemos tenido exito **cuando** se evidencie que los usuarios comenten sobre sus resultados en la pagina.
+- **Creemos que** al mejorar la experiencia del usuario mediante la simplificación del proceso de compraventa de componentes electrónicos y la inclusión de garantías adicionales para las transacciones. **Sabremos que** hemos tenido exito **cuando**  observemos una disminución en las tasas de abandono del carrito de compras y una mayor frecuencia de retorno de los usuarios a nuestra plataforma.
 
 #### 1.2.2.4. Lean UX Canvas
 
