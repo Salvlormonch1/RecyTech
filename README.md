@@ -340,96 +340,97 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Como podemos ayudar a
     <th colspan= 6>Competitive Analysis Landscape</th>
     </tr>
         <tr>
-    <th colspan= 6>El objetivo del análisis fue examinar y elaborar estrategias de mercado que nos permitan competir eficazmente tanto con nuestros competidores directos como con aquellos que influyen de manera indirecta en nuestro mercado.</th>
+    <th colspan= 6>El objetivo del análisis fue investigar y evaluar a los posibles competidores para identificar sus estrategias de mercado y aprender qué estrategias nos podrían funcionar y cómo podríamos destacar en dicho mercado.</th>
     </tr>
         <tr>
-    <th colspan= 6>¿Cuáles podrían ser las estrategias efectivas para diferenciar y destacar nuestra aplicación 'EcoMove' en el mercado de manera que facilite e incentive el uso de transporte sostenible y la reducción de la huella de carbono en áreas urbanas? </th>
+    <th colspan= 6>¿Cuáles podrían ser las estrategias efectivas para diferenciar y destacar nuestra aplicación 'RecyTech' en el mercado de manera que promueva el reciclaje y la reutilización de los dispositivos y componentes electrónicos? </th>
     </tr>
         <tr>
             <th colspan= 2></th>
-            <th>Ecomove</th>
-            <th>Grin</th>
-            <th>Bee</th>
-            <th>Whoosh</th>
+            <th>ElectronicsMarketplace</th>
+            <th>Slang・Buy & Sell Electronics</th>
+            <th>Swappa</th>
+            <th>RAECO</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan=2 align="center">Perfil</td>
             <td align="center">Overview</td>
-            <td align="center">EcoMove es una plataforma de transporte compartido con vehículos eléctricos, sostenible y futurista. La cual ofrece una idea novedosa que permite la concientización de las personas con el medio ambiente</td>
-            <td  align="center">Grin es una plataforma líder en el alquiler de bicicletas y scooters eléctricos en América Latina. Ofrece una amplia gama de vehículos disponibles para alquiler a través de su aplicación móvil en ciudades de varios países de la región.</td>
-            <td  align="center">Bee es una opción popular para aquellos que buscan soluciones de movilidad sostenible en ciudades latinoamericanas. La aplicación permite a los usuarios alquilar bicicletas y scooters eléctricos de manera conveniente, contribuyendo así a la reducción del tráfico y la contaminación.</td>
-            <td align="center">Whoosh es una aplicación de alquiler de bicicletas eléctricas y patinetes que opera en ciudades selectas de América del Norte y Europa. Ofrece una forma rápida y ecológica de desplazarse por áreas urbanas y campus universitarios.</td>
+            <td align="center">Electronics MarketPlace es una aplicación móvil orientada a la compra y venta de artículos y dispositivos electrónicos de segunda mano. Los usuarios pueden tanto poner en venta sus aparatos electrónicos como buscar dispositivos que deseen y negociar con usuarios que los tengan a la venta.</td>
+            <td  align="center">Slang・Buy & Sell Electronics es una aplicación móvil para iOs que permite a los usuarios vender y comprar artículos electrónicos de segunda mano. Tiene además la posibilidad de buscar por marcas, tipo de dispositivo, años de uso, etc.</td>
+            <td  align="center">Swappa es una plataforma web en la cual los usuarios pueden tanto comprar dispositivos nuevos como de segunda mano. Además, pueden vender sus dispositivos directamente a la empresa dueña de la aplicación, la cual se encargará de revenderlos.</td>
+            <td align="center">RAECO es una aplicación móvil cuyo objetivo es promover el reciclaje de dispositivos y componentes electrónicos que ya no se utilicen. La aplicación los ayuda a encontrar lugares a los cuales llevar sus residuos electrónicos y, mediante videos, juegos y retos, concientiza acerca de la importancia del reciclaje electrónico. Además, ofrece recompensas mediante un sistema de puntos que se obtienen reciclando y completando actividades en la app.</td>
         </tr>
         <tr>
             <td align="center">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-            <td align="center">EcoMove ofrece tarifas diferenciadas basadas en la duración del alquiler, la distancia recorrida y el tipo de vehículo eléctrico, junto con membresías, publicidad colaborativa y programas de fidelización.</td>
-            <td align="center">Grin destaca por su amplia cobertura en ciudades latinoamericanas y sus precios competitivos. Además, su interfaz intuitiva y promociones especiales atraen a una amplia base de usuarios en la región.</td>
-            <td align="center">Bee ofrece una diversidad de vehículos disponibles para alquiler, así como una atención al cliente personalizada que asegura una experiencia satisfactoria para los usuarios. Su enfoque en la movilidad verde y las alianzas con empresas locales son también aspectos destacados.</td>
-            <td align="center">Whoosh se destaca por su integración con sistemas de transporte público y sus tarifas flexibles, lo que lo hace atractivo para aquellos que buscan opciones de movilidad convenientes y asequibles.</td>
+            <td align="center">Ofrece un canal directo de comunicación entre el vendedor y comprador de artículos electrónicos, una interfaz intuitiva y amigable y le ofrece beneficios a los vendedores y descuentos a los compradores según su actividad en la app.</td>
+            <td align="center">Tiene una interfaz rápida y fácil de usar y ofrece funciones de búsqueda de dispositivos según la marca, tiempo de uso, tipo, etc. Además, ofrece la posibilidad de revisar la fiabilidad e historial del vendedor.</td>
+            <td align="center">Ofrece la posibilidad de comprar dispositivos sin necesidad de registrarse, le da facilidades a los donadores de dispositivos electrónicos dentro de la aplicación y los usuarios tienen la posibilidad de comprar dispositivos tanto nuevos como de segunda mano, con un precio adecuado para cada uno. Además, la aplicación colabora con marcas tecnológicas y electrónicas.</td>
+            <td align="center"> La aplicación contiene las localizaciones de lugares de reciclaje y los dase de datos acerca de dichos centros de reciclaje de electrónicos. Por otro lado, contiene un sistema de puntos que se ganan realizando actividades en la app tales como retos, juegos y vídeos, que luego se pueden canjear por recompensas dentro de la aplicación. Además, el usuario puede realizar un seguimiento del impacto ambiental personal y es posible recibir información sobre eventos ambientales locales.</td>
         </tr>
         <tr>
             <td rowspan= 5 align="center">Perfil de Marketing</td>
             <td align="center">Mercado Objetivo</td>
-                        <td align="center">El mercado objetivo de EcoMove son los residentes urbanos conscientes del medio ambiente, los turistas preocupados por la sostenibilidad y las empresas comprometidas con la reducción de su huella de carbono.</td>
-            <td align="center">Grin tiene como mercado objetivo a residentes urbanos, turistas y estudiantes en América Latina, ofreciendo opciones de movilidad sostenible y conveniente en ciudades congestionadas.</td>
-            <td align="center">Bee se dirige principalmente a ciudadanos urbanos y viajeros en ciudades seleccionadas de América Latina, ofreciendo una alternativa de transporte ecológica y eficiente.</td>
-            <td align="center">Whoosh está dirigido a usuarios urbanos y campus universitarios en América del Norte y Europa, proporcionando opciones de movilidad rápida y sostenible en áreas metropolitanas y entornos universitarios.</td>
+                        <td align="center">Hemos identificado tres segmentos objetivo: Las personas que deseen vender sus dispositivos y componentes electrónicos, las personas que deseen adquirir dispositivos de segunda mano a menor precio y las personas comprometidas con el cuidado del medio ambiente.</td>
+            <td align="center">Hemos identificado tres segmentos objetivo: Las personas que deseen vender sus dispositivos y componentes electrónicos, las personas que deseen adquirir dispositivos de segunda mano a menor precio y las personas comprometidas con el cuidado del medio ambiente.</td>
+            <td align="center">Hemos identificado dos segmentos objetivo: Las personas que deseen adquirir dispositivos y aparatos electrónicos a un menor precio y las personas que quieran donar sus artefactos y componentes electrónicos y, de preferencia, recibir una pequeña comisión a cambio.</td>
+            <td align="center">Hemos identificado tres segmentos objetivo: Las personas comprometidas con el cuidado del medio ambiente, los niños y jóvenes que busquen aprender y aportar al reciclaje y las personas que deseen donar o desechar sus residuos electrónicos de una forma ecológica.</td>
         </tr>
         <tr>
                     <td align="center">Estrategias de Marketing</td>
-            <td align="center">EcoMove implementa campañas de publicidad digital dirigidas a usuarios urbanos y turistas, colaboraciones con empresas locales para promocionar la sostenibilidad y eventos especiales para aumentar la visibilidad de la plataforma.</td>
-            <td align="center">Grin utiliza una combinación de publicidad en redes sociales, promociones especiales y colaboraciones con eventos locales para promover su plataforma y atraer nuevos usuarios. También se enfoca en la expansión a nuevos mercados y alianzas estratégicas.</td>
-            <td align="center">Bee lleva a cabo campañas de marketing digital dirigidas a usuarios urbanos y viajeros, así como alianzas con empresas locales y eventos de lanzamiento para aumentar su visibilidad y atraer clientes potenciales.</td>
-            <td align="center">Whoosh participa en eventos de movilidad sostenible, promociona sus membresías y colabora con universidades para llegar a su mercado objetivo y diferenciarse de la competencia.</td>
+            <td align="center">Principalmente realizan su publicidad mediante redes sociales y contienen una pequeña descripción en su página de información en Google Play Store.</td>
+            <td align="center">Principalmente realizan su publicidad mediante redes sociales y contienen una pequeña descripción en su página de información en la App Store de iOs.</td>
+            <td align="center">Principalmente realizan su publicidad en línea y en redes sociales, además de una Landing Page informativa en la cual detallan más profundamente las funcionalidades de la plataforma web. Además, publicitan su producto mediante su colaboración con marcas y empresas tecnológicas.</td>
+            <td align="center">Principalmente realizan su publicidad mediante redes sociales y contienen una pequeña descripción en su página de información en Google Play Store. Además, realizan vídeos y publicaciones informativas acerca de la misión y visión de la empresa.</td>
         </tr>
         <tr>
                     <td align="center">Productos & servicios</td>
-            <td align="center">Los productos y servicios ofrecidos por EcoMove incluyen el alquiler de vehículos eléctricos con tarifas diferenciadas, membresías con beneficios exclusivos, opciones de publicidad colaborativa, programas de fidelización, así como servicios adicionales como alquiler de accesorios y seguros premium.</td>
-            <td align="center">Grin ofrece alquiler de bicicletas y scooters eléctricos a través de su aplicación móvil, con una variedad de opciones de vehículos y precios por minuto. Los usuarios pueden ubicar y desbloquear vehículos de forma rápida y sencilla.</td>
-            <td align="center">Bee proporciona alquiler de bicicletas y scooters eléctricos mediante su aplicación móvil y estaciones físicas de alquiler, con tarifas por minuto y paquetes de tiempo disponibles para adaptarse a las necesidades de los usuarios.</td>
-            <td align="center">Whoosh permite el alquiler de bicicletas eléctricas y patinetes a través de su aplicación móvil, con tarifas por minuto o por viaje y opciones de membresía mensual para usuarios frecuentes.</td>
+            <td align="center">Producto: Aplicación móvil. Servicio: Ofrecer a los usuarios un servicio de compra y venta de dispositivos y componentes electrónicos, permitiendo una comunicación directa entre comprador y vendedor a través de la aplicación.</td>
+            <td align="center">Producto: Aplicación móvil. Servicio: Ofrecer a los usuarios un servicio de compra y venta de dispositivos y componentes electrónicos, facilitando servicios de búsqueda por tipo de dispositivo, marca, tiempo de uso, etc. y visualización de perfiles de vendedores.</td>
+            <td align="center">Producto: Sitio web y plataforma en línea. Servicio: Ofrecer a los usuarios un servicio para vender sus dispositivos y componentes electrónicos a un precio adecuado y la posibilidad de también comprar dispositivos tanto nuevos como de segunda mano a un menor precio.</td>
+            <td align="center">Producto: Aplicación móvil. Servicio: Ofrecer a  los usuarios un servicio de aprendizaje acerca de reciclaje electrónico, además de indicar centros de reciclaje electrónico y demostrar buenas prácticas para cuidar el medio ambiente, con un sistema de puntos por completas actividades en la app que se pueden cambiar por recompensas.</td>
         </tr>
                 <tr>
                     <td align="center">Precios & Costos</td>
-            <td align="center">EcoMove establece tarifas variables basadas en la duración del alquiler, la distancia recorrida y el tipo de vehículo, con membresías y suscripciones disponibles.</td>
-            <td align="center">Grin ofrece tarifas por minuto o paquetes de tiempo con precios competitivos en el mercado latinoamericano, lo que lo hace accesible para una amplia gama de usuarios.</td>
-            <td align="center">Bee tiene tarifas por minuto o paquetes de tiempo, con membresías mensuales disponibles para aquellos que utilizan el servicio con frecuencia. Los costos varían según la duración del alquiler y el tipo de vehículo.</td>
-            <td align="center">Whoosh tiene tarifas por minuto o por viaje, así como opciones de membresía mensual para usuarios regulares. Los precios pueden variar según la ubicación y la disponibilidad de vehículos.</td>
+            <td align="center">Gratis.</td>
+            <td align="center">Gratis.</td>
+            <td align="center">Gratis.</td>
+            <td align="center">Gratis.</td>
         </tr>
                 <tr>
                     <td align="center">Canales de distribución (Web y/o móvil)</td>
-            <td align="center">La distribución de EcoMove se realiza a través de su plataforma web</td>
-            <td align="center">Grin distribuye su servicio a través de su aplicación móvil para dispositivos Android e iOS, ofreciendo una experiencia de alquiler conveniente y accesible para los usuarios en movimiento.</td>
-            <td align="center">Bee utiliza su aplicación móvil para Android e iOS, así como estaciones físicas de alquiler ubicadas estratégicamente en ciudades seleccionadas para facilitar el acceso a sus servicios.</td>
-            <td align="center">Whoosh ofrece su servicio exclusivamente a través de su aplicación móvil para Android e iOS, proporcionando una experiencia de alquiler rápida y sin complicaciones para los usuarios urbanos.</td>
+            <td align="center">Tiendas de Aplicaciones (App Store, Google Play Store).</td>
+            <td align="center">App Store de iOs.</td>
+            <td align="center">Página Web Oficial.</td>
+            <td align="center">Tiendas de Aplicaciones (App Store, Google Play Store).</td>
         </tr>
                 <tr>
             <td rowspan= 4 align="center">Análisis SWOT</td>
             <td align="center">Fortalezas</td>
-                        <td align="center">Las fortalezas de EcoMove incluyen su enfoque en la sostenibilidad, las tarifas diferenciadas y las membresías para incentivar el uso recurrente, las colaboraciones con empresas locales y marcas para aumentar la visibilidad, y los programas de fidelización para mejorar la retención de usuarios.</td>
-            <td align="center">La amplia cobertura en América Latina y los precios competitivos son las principales fortalezas de Grin. Además, su interfaz intuitiva y promociones especiales atraen a una amplia base de usuarios.</td>
-            <td align="center">La diversidad de vehículos disponibles y la atención al cliente personalizada son las principales fortalezas de Bee. Además, su enfoque en la movilidad verde y las alianzas con empresas locales son aspectos destacados.</td>
-            <td align="center">La integración con sistemas de transporte público y las tarifas flexibles son las principales fortalezas de Whoosh. Además, su enfoque en la movilidad sostenible y las colaboraciones con universidades son aspectos diferenciadores.</td>
+                        <td align="center">Cuenta con una interfaz intuitiva y atractiva. Ofrece un servicio novedoso que cubre un segmento objetivo específico. Brinda facilidad en la comunicación entre vendedor y comprador y facilidad en la compra.</td>
+            <td align="center">Cuenta con una interfaz fácil de usar. Ofrece un servicio novedoso que cubre un segmento objetivo específico. Brinda funciones de búsqueda rápidas, satisfactorias y variadas.</td>
+            <td align="center">Tiene colaboraciones con marcas y empresas tecnológicas. Ofrece una amplia variedad de productos. Cuenta con la posibilidad de comprar artículos tanto nuevos como de segunda mano, según las necesidades y presupuesto del usuario. Para los compradores, no hay necesidad de registrarse, por lo que el proceso es más rápido.</td>
+            <td align="center">Ofrece una gran variedad de actividades, vídeos, juegos y recursos para aprender acerca del reciclaje electrónico. Indica centros de reciclaje electrónicos a los que pueden llevar sus productos obsoletos. Cuenta con un sistema de canje de puntos a cambio de recompensas.</td>
         </tr>
                     <td align="center">Debilidades</td>
-                        <td align="center">Las posibles debilidades de EcoMove incluyen la resistencia al cambio hacia la movilidad eléctrica, la competencia de otras plataformas de transporte compartido y la necesidad de establecer una red de estaciones de carga sólida y confiable.</td>
-            <td align="center">La limitada presencia fuera de América Latina y las regulaciones gubernamentales son las principales debilidades de Grin. Además, la competencia creciente en el mercado puede representar un desafío.</td>
-            <td align="center">La disponibilidad limitada en algunas ciudades y la competencia creciente en el mercado son las principales debilidades de Bee. Además, las fluctuaciones en la demanda de movilidad sostenible pueden afectar su rendimiento</td>
-            <td align="center">El alcance geográfico limitado y las menos opciones de vehículos en comparación con otros competidores son las principales debilidades de Whoosh. Además, la competencia intensificada en los mercados objetivo puede representar un desafío.</td>
+                        <td align="center">Otras aplicaciones y páginas de compra venta en general son más utilizadas y conocidas. La empresa ha hecho poco marketing al producto.</td>
+            <td align="center">Otras aplicaciones y páginas de compra venta en general son más utilizadas y conocidas. La empresa ha hecho poco marketing al producto.</td>
+            <td align="center">Muchas veces la gente no se siente lo suficientemente informada o motivada a vender o donar sus dispositivos obsoletos. La empresa ha hecho poco marketing al producto.</td>
+            <td align="center">Hay pocas personas verdaderamente interesadas en el reciclaje electrónico como para usar constantemente el producto. Existe una necesidad de actualizar a menudo el sistema de recompensas para mantener la motivación de los usuarios.
+</td>
         </tr>
                 <td align="center">Oportunidades</td>
-                        <td align="center">Las oportunidades para EcoMove incluyen la creciente conciencia ambiental y la demanda de opciones de transporte sostenible, colaboraciones potenciales con empresas y municipios interesados en promover la movilidad eléctrica, y la posibilidad de expandir a nuevos mercados.</td>
-            <td align="center">La expansión a nuevos mercados y las alianzas con empresas locales representan oportunidades de crecimiento para Grin. Además, la diversificación de servicios puede aumentar su atractivo para los usuarios.</td>
-            <td align="center">La ampliación de la cobertura a más ciudades y la diversificación de servicios representan oportunidades de crecimiento para Bee. Además, las colaboraciones con empresas locales pueden aumentar su visibilidad y atraer nuevos clientes.</td>
-            <td align="center">La entrada a nuevos mercados y las colaboraciones con empresas de transporte público representan oportunidades de crecimiento para Whoosh. Además, la ampliación de la cobertura a más ciudades puede aumentar su base de usuarios.</td>
+                        <td align="center">Aprovechar que el mercado al que va dirigido es muy específico para convertirse en la app de referencia.</td>
+            <td align="center">Aprovechar que el mercado al que va dirigido es muy específico para convertirse en la app de referencia.</td>
+            <td align="center">Pueden utilizar sus colaboraciones con marcas para promover su producto. Tienen la posibilidad de expandir su mercado a otros segmentos objetivos.</td>
+            <td align="center">Aprovechar el movimiento ecológico de los últimos años para publicitarse. Siempre y cuendo estén a su alcance, pueden ofrecer cada vez mejores recompensas en su sistema de puntos.</td>
         </tr>
                     <td align="center">Amenazas</td>
-                        <td align="center">Las amenazas para EcoMove pueden ser cambios en las regulaciones gubernamentales que afectan la operación de vehículos eléctricos compartidos, la competencia intensificada de otras plataformas de movilidad sostenible y la necesidad de mantener la infraestructura de carga actualizada y funcional.</td>
-            <td align="center">La competencia creciente en el mercado latinoamericano y las regulaciones gubernamentales pueden representar amenazas para Grin. Además, las fluctuaciones en la demanda de movilidad sostenible pueden afectar su rendimiento.</td>
-            <td align="center">La entrada de nuevos competidores y las fluctuaciones en la demanda de movilidad sostenible son amenazas para Bee. Además, las regulaciones gubernamentales pueden afectar su operación en ciertas ciudades.</td>
-            <td align="center">Los cambios en las regulaciones gubernamentales y la competencia intensificada en los mercados objetivo pueden representar amenazas para Whoosh. Además, las fluctuaciones en la demanda de movilidad sostenible pueden afectar su rendimiento.</td>
+                        <td align="center">Si aparece una nueva aplicación de referencia puede llevarse su mercado específico.</td>
+            <td align="center">Si aparece una nueva aplicación de referencia puede llevarse su mercado específico.</td>
+            <td align="center">Depende de que los usuarios vendan sus productos usando la aplicación para sostenerse. Si hay poco movimiento, no tendrán artefactos de segunda mano qué vender, que es una de las principales novedades de la aplicación.</td>
+            <td align="center">Depende de qué tan concientizada esté la gente acerca del problema ecológico y qué tan dispuestos estén a involucrarse. Una persona promedio no suele estar lo suficientemente interesada como para participar de proyectos ecológicos sin una mayor motivación.</td>
         </tr>
 </table>
 
