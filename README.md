@@ -299,14 +299,35 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Como podemos ayudar a
 
 #### 1.2.2.4. Lean UX Canvas
 
-### Estudiantes universitarios urbanos:
-- **Descripción**: Estudiantes que viven en áreas urbanas y asisten a universidades o institutos locales.
-- **Necesidades y deseos**: Necesitan un medio de transporte económico y conveniente para desplazarse entre su hogar, el campus universitario, bibliotecas y otros lugares de interés cercanos. Desean una forma rápida y sencilla de moverse sin depender del transporte público o el automóvil.
-- **Comportamiento de uso**: Utilizan la aplicación para alquilar bicicletas o scooters eléctricos principalmente durante los días de clase y para actividades recreativas los fines de semana. Prefieren rutas seguras y accesibles que les permitan evitar el tráfico y llegar a sus destinos rápidamente.
-### Ciudadanos en busca de movilidad rápida y evitando el tráfico:
-- **Descripción**: Personas que viven o trabajan en áreas urbanas y buscan una forma rápida de desplazarse evitando el tráfico.
-- **Necesidades y deseos**: Desean una opción de transporte ágil que les permita llegar a sus destinos de manera rápida y sin los retrasos causados por el tráfico. Valorizan la conveniencia y la eficiencia en sus desplazamientos diarios.
-- **Comportamiento de uso**: Utilizan la aplicación para alquilar bicicletas o scooters eléctricos como una alternativa al automóvil o al transporte público, especialmente durante las horas pico de tráfico. Prefieren rutas menos congestionadas y opciones que les permitan moverse de manera rápida y fluida por la ciudad.
+### Business Problem :
+- La gestión ineficiente de los desechos electrónicos debido a la falta de regulación y disposición inapropiada está generando contaminación ambiental y problemas de salud pública y creación de oportunidades para personas de bajos recursos.
+### Users & Customers :
+- Personas que deseen adquirir componentes a un precio accesible.
+- Personas donantes que deseen deshacerse de componentes en desuso.
+### Business Problem :
+- La gestión ineficiente de los desechos electrónicos debido a la falta de regulación y disposición inapropiada está generando contaminación ambiental y problemas de salud pública y creación de oportunidades para personas de bajos recursos.
+### Hypotheses :
+- Creemos que al proporcionar una plataforma donde los usuarios puedan donar o vender componentes electrónicos, y otros puedan comprarlos a precios accesibles, podremos satisfacer las necesidades de personas de recursos limitados y diferenciarnos en el mercado.
+### Solution ideas :
+- Desarrollar una aplicación móvil y una plataforma web donde los usuarios puedan donar o vender componentes electrónicos.
+- Implementar un sistema de verificación de calidad para garantizar que los componentes reacondicionados sean funcionales y seguros para su uso.
+- Ofrecer precios accesibles para los componentes electrónicos, especialmente dirigidos a personas de recursos limitados.
+### What's the most important thing we need to learn  first? :
+- Necesitamos entender las necesidades y preferencias de las personas de recursos limitados con respecto a la compra de componentes electrónicos reacondicionados, así como también comprender los desafíos y preocupaciones de los vendedores y donantes potenciales.
+### Business Outcomes :
+- Mejora de la reputación y responsabilidad social corporativa.
+- Aumento de la accesibilidad económica a componentes electrónicos para personas de recursos limitados.
+- Reducción de la cantidad de desechos electrónicos mediante la reutilización de componentes funcionales.
+### User Benefits :
+- Acceso a componentes electrónicos funcionales a precios más bajos.
+- Oportunidad de contribuir al cuidado del medio ambiente al reciclar y reutilizar componentes electrónicos.
+- Mayor acceso a la tecnología para personas de recursos limitados.
+### What's the least amount of work we need to do learn the next most important thing? :
+- Realizar encuestas y entrevistas con personas de recursos limitados para comprender sus necesidades y preferencias con respecto a la compra de componentes electrónicos reacondicionados, así como también entrevistar a posibles vendedores y donantes para comprender sus motivaciones y preocupaciones.
+
+#### 1.3. Segmentos Objetivos
+- Nuestros segmentos objetivos incluyen a personas de bajos recursos económicos, entre 19 y 60 años de edad, que buscan acceso a componentes electrónicos reacondicionados a precios más asequibles, consumidores conscientes del medio ambiente interesados en contribuir al reciclaje y reutilización de dispositivos electrónicos, así como vendedores o donantes que desean deshacerse de sus dispositivos de manera responsable y ética. Estamos comprometidos en ofrecer una plataforma que satisfaga las necesidades de estos segmentos al proporcionar una solución accesible, sostenible y socialmente responsable para la gestión de desechos electrónicos.
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 
