@@ -11,9 +11,10 @@
 ## Startup: 
 ## Propuesta: 
 **Team Members**
-- Chamorro Acero, Salvador Edward      
-- Palomino Fano, Cristhofer Sebastian  
+- Chamorro Acero, Salvador Edward
+- Jorge Arévalo, Ramón Alejandro 
 - Morales Montalvo, Omar Andrew
+- Palomino Fano, Cristhofer Sebastian  
 
 
 
