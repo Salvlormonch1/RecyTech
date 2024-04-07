@@ -466,6 +466,35 @@ Para la elaboración de tales User Persona, se ha utilizado la plataforma UXPres
 ### 2.3.5. As-is Scenario Mapping
 ![](https://lh3.googleusercontent.com/pw/AP1GczOR15SCdrhZ7BZIoju_fLCXI0S0RKAPwNJCxGdU5s8qH6DB9X_Fma5Wpm2bfkdYO7azsaxhZafO4tHQMe_Ua21Z-mbw3PeOG4Vgq6SUsazsniYRilK_b9EkBSeUQ2UeY5m7aFPOnnkAD342-u8m7EjVAkKHG0QrLjTK01g_7fSB7jCnz0czDVMQEzMBPI4AHlwT8HHV37lk8eaKI75BITxl9KCYVaJBokMmb7fxqZf-EK4uWwvEtNqk3_tb3zRAqTfesDFGff2idluTb87g1K242mkkoRSQYpANVPji15R9Fv0PH5T1nIje4cnYl-YxDxvvvcyuHtfYxCgdS3uGQoLfJlny01imVxp_5mmFoM0aQ_voqr0YLWLzabtFMW_cY1MZGm5SJCAZC0-2fLPTNxldDm2UzbbknkD_Da2NdhRbLIphI0uUYP1fJocu5BNU8kGxcNsDSbcOXP9qT3H4eWY963MNFrkgRcpdZAC4NoQzQYrp8p50y09_Q4XxlpAPUHWrE8nfLfRbugUXoAHMBpvp-MSR91_r8LwFfiZ2-rQvdA4CDvB3vfElCbiFf_pBvapL7S8u8MiCV70POGEiBwKyLg8geb3O1Xt3kGPT4iHq-Gj_Ferw1z8D5Zn0xv-aLRdPL22C0GVLh08cvfqBCTPcvC0HO6YRZ9E4H75VX8LizktlOzabBM8gCUnK0vrIMPPJUmR4nOlp03Ibxe6e6gg77qXXTVtZq4LgDmzxR9kxS3wUlXLPo0H5KojNTMOypMX4LXSXgr_THSKNUaWCPAxhytIVuF3KFrVp4zknYYsn8Re7gJvQ9li9xm3UJ-DBqJ4P_llJWMsO6p8UfzRDjcOlbGHPOos00UrKN2SclPQouE2NpPOVNva0kUJ93yUxzK7ZJ85HUZ6Td49wlsfVVtYcQlsx-Av-hbU3JDdEwBOgRQL098AxMPtbD4k=w992-h628-s-no?authuser=0)
 
+# Capítulo IV: Product Design
+## 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines
+Branding:
+
+El nombre del proyecto es RecyTech. Esto surge de la combinación de dos palabras en inglés ya que es nuestra forma de mostrarnos como una empresa abierta a todo tipo de público. Las palabras son recycling y technology que al juntarlas se crea RecyTech que podría interpretarse como reciclador de tecnología, lo que le da sentido al concepto de la aplicación ya que tenemos como finalidad de alguna manera la reutilización de artefactos electrónicos.
+
+Typography: 
+
+La tipografía que se usará es “Inter” en estilos medium y normal tanto para el heading como para el texto respectivamente.
+
+Colors: 
+
+Se tienen como colores principales el verde y el marrón, ya que ambos colores representan protección al medio ambiente que es el principal enfoque que tiene nuestra aplicación. En cuanto a los colores secundarios, se utilizarán distintos tonos de los colores primarios para poder conseguir una armonía en la aplicación y no saturar visualmente al usuario.
+
+Spacing:
+
+Tono de comunicación y lenguaje aplicado:
+
+RecyTech tiene un enfoque serio, formal, respetuoso y sereno. Esto se debe a que al ser una aplicación orientada a ventas y con un enfoque de cuidado al medio ambiente es importante para nosotros que nuestros clientes se sientan cómodos y tengan la confianza de que están usando una aplicación totalmente seria.
+
+
+### 4.1.2. Web Style Guidelines.
+## 4.2. Information Architecture.
+### 4.2.1. Organization Systems.
+### 4.2.2. Labeling Systems.
+### 4.2.3. SEO Tags and Meta Tags
+### 4.2.4. Searching Systems.
+### 4.2.5. Navigation Systems.
 # Bibliografía
 
 
