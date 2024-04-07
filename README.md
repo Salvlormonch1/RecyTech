@@ -435,36 +435,9 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Como podemos ayudar a
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-# Estrategias y Tácticas para EcoMove
+# Estrategias y Tácticas para RecyTech
 
-Para que EcoMove se posicione como líder en el mercado de alquiler de vehículos eléctricos y supere a sus competidores, es fundamental desarrollar una serie de estrategias y tácticas que diferencien sus servicios y ofrezcan un valor añadido a los clientes. 
-
-## Innovación y Tecnología
-
-En primer lugar, EcoMove debe centrarse en la innovación y en la integración con las tecnologías emergentes en el sector de la movilidad eléctrica, así como en la adaptabilidad a diferentes sistemas y dispositivos existentes en el mercado. Esto permitirá a los usuarios contar con una solución más completa y versátil que se adapte a sus necesidades específicas.
-
-## Alianzas Estratégicas
-
-Es importante establecer alianzas estratégicas con municipios, universidades y empresas locales, lo que permitirá a EcoMove expandirse en nuevas áreas urbanas y ofrecer soluciones personalizadas para diferentes comunidades.
-
-## Experiencia del Usuario
-
-También es esencial mejorar la experiencia del usuario mediante una interfaz fácil de usar y la implementación de funciones adicionales, como rutas personalizadas, información sobre estaciones de carga y eventos relacionados con la movilidad sostenible, lo que facilitará el uso de vehículos eléctricos y enriquecerá la vida urbana de los usuarios.
-
-## Comercialización y Retención
-
-En cuanto a la comercialización, EcoMove debe enfocarse en promociones y campañas de concienciación sobre la movilidad sostenible, así como en la retención de los usuarios existentes a través de programas de fidelización y descuentos por uso frecuente. Realizar estudios de mercado y la identificación de áreas urbanas donde la demanda de vehículos eléctricos sea alta es esencial para el crecimiento de la empresa.
-
-## Seguridad
-
-Para garantizar la seguridad de EcoMove, se implementará una sólida estrategia de seguridad basada en la metodología DevSecOps:
-
-- **Integración Continua y Entrega Segura:** EcoMove utilizará herramientas de integración continua para automatizar la construcción, prueba y despliegue de nuevas versiones de la aplicación. Esto asegurará que cada actualización sea segura y libre de vulnerabilidades antes de llegar a los usuarios, brindando confiabilidad y una experiencia segura.
-
-- **Pruebas de Seguridad Automatizadas:** La implementación de pruebas de seguridad automatizadas en el proceso de desarrollo de EcoMove garantizará que la aplicación esté protegida contra vulnerabilidades conocidas y desconocidas. Esto fortalecerá la seguridad de los datos y la privacidad de los usuarios.
-
-- **Monitoreo Continuo:** EcoMove utilizará herramientas de monitoreo continuo para identificar cualquier actividad sospechosa en tiempo real. Esto permitirá una detección temprana de amenazas y una respuesta inmediata para proteger la aplicación y la información de los usuarios.
-
+Para poder destacar en el mercado, debemos enfrentar las fortalezas de nuestros competidores y aprovecharnos de sus debilidades. Nuestra startup buscará convertirse en la aplicación de referencia en el mercado de compra y venta de dispositivos y componentes electrónicos. En primer lugar, debemos innovar en la forma de captar potenciales clientes, realizando estrategias de marketing que lleguen al mercado objetivo y atraigan su atención. Podemos hacer esto mediante publicidad en redes sociales y en páginas web. Por otro lado, también es importante establecer alianzas estratégicas con marcas tecnológicas conocidas, lo cual ayudaría tanto a la publicidad de nuestro producto como en el prestigio de nuestra startup, dándole una imagen mucho más seria y profesional. Es esencial también ofrecerle al usuario una experiencia satisfactoria con nuestra aplicación. Las principales estrategias para ello serían desarrollar una interfaz atractiva, fácil de usar, intuitiva y agradable a la vista; además de implementar funcionalidades adicionales para que el usuario se sienta más cómodo utilizando el producto. Entre estas funcionalidades podrían estar los filtros de búsqueda, la posibilidad de revisar las condiciones del dispositivo o componente que se va a comprar, notificaciones y recomendaciones, etc. Finalmente, también es importante ofrecerle una experiencia sobretodo segura y fiable al usuario. Asegurándonos de que los productos que compren lleguen en buenas condiciones y en  las fechas previstas, además de proteger los datos y los medios de pago que los usuarios podrían guardar dentro de la aplicación para realizar las compras más rápidamente.
 
 ## 2.2. Entrevistas
 ## 2.3. Needfinding
