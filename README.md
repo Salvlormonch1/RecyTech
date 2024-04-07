@@ -481,6 +481,8 @@ Colors:
 
 Se tienen como colores principales el verde y el marrón, ya que ambos colores representan protección al medio ambiente que es el principal enfoque que tiene nuestra aplicación. En cuanto a los colores secundarios, se utilizarán distintos tonos de los colores primarios para poder conseguir una armonía en la aplicación y no saturar visualmente al usuario.
 
+![User Persona 1](/./images/Colors.png)
+
 Spacing:
 
 Tono de comunicación y lenguaje aplicado:
