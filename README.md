@@ -477,6 +477,8 @@ Typography:
 
 La tipografía que se usará es “Inter” en estilos medium y normal tanto para el heading como para el texto respectivamente.
 
+![User Persona 1](/./images/typography.png)
+
 Colors: 
 
 Se tienen como colores principales el verde y el marrón, ya que ambos colores representan protección al medio ambiente que es el principal enfoque que tiene nuestra aplicación. En cuanto a los colores secundarios, se utilizarán distintos tonos de los colores primarios para poder conseguir una armonía en la aplicación y no saturar visualmente al usuario.
@@ -485,17 +487,38 @@ Se tienen como colores principales el verde y el marrón, ya que ambos colores r
 
 Spacing:
 
+![User Persona 1](/./images/spacing.png)
+
 Tono de comunicación y lenguaje aplicado:
 
 RecyTech tiene un enfoque serio, formal, respetuoso y sereno. Esto se debe a que al ser una aplicación orientada a ventas y con un enfoque de cuidado al medio ambiente es importante para nosotros que nuestros clientes se sientan cómodos y tengan la confianza de que están usando una aplicación totalmente seria.
 
-
 ### 4.1.2. Web Style Guidelines.
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
+Para la landing page se ha optado por una estructura jerárquica en ambos segmentos objetivos, ya que se tiene una barra de navegación en la parte superior la cual nos llevará a diferentes secciones donde cada una de ellas encapsula información que se relaciona.
+
+Para realizar un inicio de sesión o una creación de cuenta se utiliza una organización lineal, ya que mientras se van llenando los datos , se avanza linealmente hasta concluir dicha funcionalidad.
+
+Dentro de la aplicación, se utiliza una organización jerárquica en una primera instancia ya que es necesario separar y encapsular diferentes funcionalidades. Esto aplica para ambos segmentos objetivos , ya que a pesar de que ambos utilizan funcionalidades diferentes el enfoque en la organización de la aplicación es la misma.
+
+Vendedor:
+
+En los vendedores la principal funcionalidad es la de vender artefactos electrónicos, por lo que se maneja una organización jerárquica ya que de esta forma se encapsulan diferentes sub funcionalidades que al final están relacionadas con el enfoque principal que es la venta. Se tienen diferentes secciones que en conjunto conforman el proceso de venta, como la sección de vender producto, la sección de ver el historial de productos y la sección de notificaciones.
+
+Comprador:
+
+En los compradores se utilizan dos tipos de organización, tanto la organización jerárquica como la organización lineal. Al inicio se utiliza una organización jerárquica, ya que el proceso de compra inicia con un catálogo donde se podrá navegar dependiendo de las secciones y se hará uso de un carrito de compras. Una vez seleccionados los productos se procede con una organización lineal para el pago, ya que a partir de este momento se procederá a utilizar formularios de manera secuencial hasta llegar con el pago del artefacto.
+
+Finalmente, en caso de que el usuario quiera realizar otra funcionalidades en común, como por ejemplo editar el perfil, donar producto o cerrar sesión, se mantendrá la organización jerárquica ya que todas esas funciones están debidamente segmentadas.
+
 ### 4.2.2. Labeling Systems.
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems.
+
+El sistema de búsqueda para los compradores funcionará de dos formas mediante diferentes filtros que serán marcados antes de realizar alguna búsqueda y mediante el tipeo de algún producto en específico. Como los productos se verán reflejados mediante un catálogo se tomó la decisión de colocar filtros que harán que en el catálogo se muestran solamente los productos en los que el usuario esté interesado, además en caso de no usar los filtros el usuario también podrá tipear algún artefacto en particular y se verá reflejado en el catálogo siempre y cuando el artefacto se encuentre disponible.
+
 ### 4.2.5. Navigation Systems.
 # Bibliografía
 
