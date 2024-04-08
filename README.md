@@ -460,9 +460,8 @@ Para la elaboración de tales User Persona, se ha utilizado la plataforma UXPres
     <thead>
         <tr>
             <td rowspan=2 align="center">User Task</td>
-            <td align="center">User Solicitante</td>
-            <td colspan= 2> </td>
-            <td align="center">User Donante</td>
+            <td align="center" colspan= 2>User Solicitante</td>
+            <td align="center" colspan= 2>User Donante</td>
         </tr>
         <tr>
             <td align="center">Frecuencia</td>
