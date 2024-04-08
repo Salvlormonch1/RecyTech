@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <link  rel="stylesheet"  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+  <script src="https://kit.fontawesome.com/af69a02321.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Document</title>
+</head>
+<body>
+  <nav>
+    <input type="checkbox" id="check">
+      <label for="check" class="checkbtn">
+        <i class="fas fa-bars"></i>
+      </label>
+      <label class="logo">RETECH</label>
+        <ul>
+          <li><a href="#descargar">Descargar</a></li>
+          <li><a href="#nosotros">Nosotros</a></li>
+          <li><a href="#beneficios">Beneficios</a></li>
+          <li><a href="#contactanos">Contáctanos</a></li>
+        </ul>
+  </nav>
+  
+  <section class="main-page">
+    <div class="pText">
+      <div class="form-content">
+        <h1 id="title">Registro</h1>
+        <form>
+          <div class="input-group">
+            <div class="input-field" id="nameInput">
+              <i class="fa-solid fa-user"></i>
+              <input type="text" placeholder="Nombre">
+            </div>
+            <div class="input-field">
+              <i class="fa-solid fa-envelope"></i>
+              <input type="email" placeholder="Correo">
+            </div>
+            <div class="input-field">
+                <i class="fa-solid fa-lock"></i>
+                <input type="password" placeholder="Contraseña">
+            </div>
+            <a href="#">¿Olvidate tu contraseña?</a>
+          </div>
+          <div class="btn-field">
+            <button id="singUp" type="button">Registro</button>
+            <button id="singIn" type="button" class="desable">Login</button>
+          </div>
+        </form>
+
+      </div>
+      
+
+    </div>
+    <div class="pImageWrap">
+      <img class="pImage" src="img/mainPage1.png">
+    </div>
+  </section>
+  
+  <section id="descargar" class="download-page">
+    <div class="wrap-download-text">
+      <p class="dText">Convierte tus componentes electrónicos en desuso en oportunidades</p>
+      <div class="botones">
+        <a href="https://play.google.com/store/games?device=windows" target="_blank">
+            <img src="https://www.gamership.com.mx/img/disponiblegoogleplay.png" alt="Descargar en Play Store" style="width:244px; height:auto;">
+        </a>
+    
+        <a href="https://www.apple.com/la/app-store/" target="_blank">
+            <img src="https://www.talkatone.com/wp-content/themes/talkatone/img/get-app-app-store.png" alt="Descargar en App Store" style="width:220px; height:auto;">
+        </a>
+        </div>
+  </div>
+  <div class="wrap-dImage">
+      <img class="dImage" src="img/Group 2.png">
+  </div>
+  </section>
+
+  <section id="nosotros" class="about-us-page">
+    <div class="wrap-about-us-title">
+      <h1 class="about-us-title">
+        Sobre
+        nosotros
+      </h1>
+    </div>
+    <div class="wrap-about-us-p">
+      <img class="abImage" src="img/A.png">
+      <p class="about-us-p">
+        Buscamos ayudar a la población en búsqueda de generar mayor conciencia ambiental y ofrecimos a la población facilidades para que puedan empezar con este proceso de cambio cómodamente desde sus hogares
+      </p>
+    </div>
+  </section>
+
+  <section id="MisionVision" class="about-us-mv">
+    <div class="banner-wrap">
+      <img class="banner" src="img/Rectangle.png">
+    </div>
+    <div class="mision-wrap">
+      <div class="mv-title-wrap">
+        <h1 class="title-mv">Misión</h1>
+      </div>
+      <div class="mv-text-wrap">
+        <p class="text-mv" id="mision">Transformar la gestión de electrodomésticos desechados promoviendo la sostenibilidad y la reutilización inteligente.</p>
+      </div>
+    </div>
+    <div class="vision-wrap">
+      <div class="mv-title-wrap">
+        <h1 class="title-mv">Visión</h1>
+      </div>
+      <div class="mv-text-wrap">
+        <p class="text-mv" id="vision">Un futuro donde los dispositivos electrónicos desechados se conviertan en valiosos recursos, que se reciclan y reutilizan eficientemente</p>
+      </div>
+    </div>
+  </section>
+  <section id="beneficios" class="benefits-page">
+    <div class="benefits-title-wrap">
+      <h1 class="benefits-title">Beneficios</h1>
+    </div>
+    <!-- Slider main container -->
+    <div class="swiper">
+  <!-- Additional required wrapper -->
+      <div class="swiper-wrapper">
+      <!-- Slides -->
+        <div class="swiper-slide">
+          <div class="slide-content-wrap">
+            <div class="slide-content-img">
+              <img src="img/slide-1-img.png">
+            </div>
+            <div class="slide-content-text">
+              <p>Tendrás una forma sencilla y responsable de deshacerse de dispositivos antiguos</p>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="slide-content-wrap">
+            <div class="slide-content-img">
+              <img src="img/slide-2-img.png">
+            </div>
+            <div class="slide-content-text">
+              <p>Acceso a componentes reacondicionados de calidad a precios asequibles.</p>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="slide-content-wrap">
+            <div class="slide-content-img">
+              <img src="img/slide-3-img.png">
+            </div>
+            <div class="slide-content-text">
+              <p>Seguridad y protección de datos guardados en los dispositivos móviles, nos aseguraremos de que la información guardada sea eliminada antes de darles un segundo uso en el mercado. </p>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="slide-content-wrap">
+            <div class="slide-content-img">
+              <img src="img/slide-4-img.png">
+            </div>
+            <div class="slide-content-text">
+              <p>Tendras un porcentaje de la venta del producto reacondicionado. El porcentaje dependera del estado del producto</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="swiper-pagination"></div>
+      </div>
+  </section>
+
+  <section id="contactanos" class="contact-page">
+    <div class="contact-title-wrap">
+      <h1 class="contact-title">Soporte</h1>
+    </div>
+    <div class="contact-text-wrap">
+      <img class="mail-img" src="img/contact-1.png">
+      <p class = "contact-info">retech@gmail.com</p>
+    </div>
+    <div class="contact-text-wrap">
+      <img class="phone-img" src="img/contact-2.png">
+      <p class = "contact-info">+51 986 542 125</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="contact-info-wrap">
+      <ul class="footer-info">
+        <li>Aplica terminos y condiciones</li>
+        <li>FAQ</li>
+        <li>Política de privacidad</li>
+        <li>Los Zafiros 2023 - San Juan de Lurigancho - Lima - Perú</li>
+        <li class="last-item">Copyright © 3R.com.pe Todos los derechos reservados.</li>
+      </ul>
+      <label class="logo-footer">RETECH</label>
+    </div>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <script src="js/swiper.js"></script>
+  <script src="js/scripts.js"></script>
+</body>
+</html>
