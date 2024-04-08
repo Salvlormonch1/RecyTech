@@ -463,7 +463,6 @@ Para la elaboración de tales User Persona, se ha utilizado la plataforma UXPres
             <td align="center">User Solicitante</td>
             <td colspan= 2> </td>
             <td align="center">User Donante</td>
-            <td colspan= 2> </td>
         </tr>
         <tr>
             <td align="center">Frecuencia</td>
