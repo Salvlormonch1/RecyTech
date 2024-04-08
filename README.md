@@ -460,8 +460,10 @@ Para la elaboración de tales User Persona, se ha utilizado la plataforma UXPres
     <thead>
         <tr>
             <td rowspan=2 align="center">User Task</td>
-            <td rowspan=2 align="center">User Solicitante</td>
-            <td rowspan=2 align="center">User Donante</td>
+            <td align="center">User Solicitante</td>
+            <td colspan= 2> </td>
+            <td align="center">User Donante</td>
+            <td colspan= 2> </td>
         </tr>
         <tr>
             <td align="center">Frecuencia</td>
@@ -573,7 +575,11 @@ Para la elaboración de tales User Persona, se ha utilizado la plataforma UXPres
 
 ### 2.3.4. Empathy Mapping
 
+#### 2.3.4.1 Empathy Mapping Donante
+
 ![Empathy Mapping 1](/./images/EmphatyDonante.PNG)
+
+#### 2.3.4.2 Empathy Mapping Solicitante
 
 ![Empathy Mapping 2](/./images/EmphatySolicitante.PNG)
 
@@ -582,7 +588,11 @@ Para la elaboración de tales User Persona, se ha utilizado la plataforma UXPres
 ![](https://lh3.googleusercontent.com/pw/AP1GczPLfFGRsdFhxdPwxM0X4rYmGZyGrLF2_G4O3SYOKaLWhaSn5i8jJsgTGqDqh0XAPdi77kUzdaP5ONpm9xXnWYhIL5xRtGkvaya1oZba-T-nYf294PBGWhrj3kSiYIqsDvuNj99AqCcp_mnAAPJW9n74BlStDbyGVMvqFFOHqLRomdU9vxoWBmmYlDzRTp7nWFvvw24JylUmUusyPT50EMWGAgzRLDPQDkpL2yq7FeYGKFh9VpDWu6VMrnWCGlrmseYBVTgM_nXzMTiwWCwG0qRLB0aqu1P8deQyngnu9XBHv63L2ZYSBMF03v8O5kzLL3DhbQIbyKC2nwRtETW5yHtEbXlgBcHGhEYvipgJnFKSCPG_p2LliTSsmWIurftsWrVpml_7X0TUblSb-C4vrsaOf_CqTPq0wW3fGHqAnJcqd8KIHdf_9iwlmAewbYKXQTj8YM362044ZSteV2McyKj8n5sz-f_FhgvlHYxhtqCrNLVfwRHW3KurUL8QPZ3UoD4FFMO4CNus39pRL87rghwy_e_s0GpBeUPssLNFuz2T2S4zYdFvJLAw_iM7ROA35JgjNXg8LsOA1LJro053bGqOxHbyOZJ1dYZQsLGy_bNFIXy21qHeSkTF0tv7IvoERUQhg722Ys5vyP0hKcccs1EvHSBAuvexQT4_eoDlxymrLq4OeoG65josOARUWcv7i4RtrIE8S5ocvK3UN984HeFnyMCQmaWPNDH4o1X9ZEoD337PVfF7iu-DWxS9baKBUk49lx9yp4IsFXzfVyStNH24Nxy7341TJJ4CN5Q5eBPdFJZYAX5XCSiSgFZgga6T4Iir9glBmAfuVbzyw6yGkFO0Q2MOL_bVe8RWm2zz1_sBkkC0G0LneNWClWgMVj6Wa5kAMcIOjKlT4aWKGsUeFEjdn8X3eoOTtCM9rqUSGx8Ay8QHXoUh1gpcqc0=w1024-h768-s-no?authuser=0)
 ### 2.3.5. As-is Scenario Mapping
 
+#### 2.3.5.1 As-is Scenario Mapping Donante
+
 ![As-is Scenario Mapping 1](/./images/As-isDonante.PNG)
+
+#### 2.3.5.2 As-is Scenario Mapping Solicitante
 
 ![As-is Scenario Mapping 2](/./images/As-isSolicitante.PNG)
 
