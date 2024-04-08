@@ -455,15 +455,145 @@ Para la elaboración de tales User Persona, se ha utilizado la plataforma UXPres
 
 ![](https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=png&cs=fFNQTw&docid=https%3A%2F%2Fupcedupe-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!z3XiyfF_kE-JHQExcCmyJQcYfLjTwS5OpvDyTqB9vsKxExbOHz_JQJaay3NAEpdD%2Fitems%2F01NCRFCSMTZMLRPREX5RHKEYDN2N722REM%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvdXBjZWR1cGUtbXkuc2hhcmVwb2ludC5jb21AMGUwY2IwNjAtMDlhZC00OWY1LWEwMDUtNjhiOWI0OWFhMWY2IiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwIiwibmJmIjoiMTcxMjE3ODAwMCIsImV4cCI6IjE3MTIxOTk2MDAiLCJlbmRwb2ludHVybCI6ImtJVXQraDVTeERLRlIvNThqQVBhTTJBVmh3cDBLdlZNK2lKUGlMU1BMUGs9IiwiZW5kcG9pbnR1cmxMZW5ndGgiOiIxMTgiLCJpc2xvb3BiYWNrIjoiVHJ1ZSIsInZlciI6Imhhc2hlZHByb29mdG9rZW4iLCJzaXRlaWQiOiJZemxsTWpjMVkyWXROMlptTVMwMFpqa3dMVGc1TVdRdE1ERXpNVGN3TWpsaU1qSTEiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwibmFtZWlkIjoiMCMuZnxtZW1iZXJzaGlwfHUyMDIxMTYwNzhAdXBjLmVkdS5wZSIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMyMDAxMDYzMmZiY2VAbGl2ZS5jb20iLCJzaWQiOiJjZTI5M2NkYi1lNTcxLTQwM2QtYTFlOS1jZDBlZTY0YmYxODgiLCJ0dCI6IjAiLCJpcGFkZHIiOiIxOTAuMjM5LjEzOS4xOTkiLCJzbmlkIjoiNiIsInN0cCI6InQifQ.LbA7TQMFiHXHIUO8E7rHskJGFUz5iegf8P9I6oPk-WQ&cTag=%22c%3A%7B1717CB93-97C4-4EEC-A260-6DD37FAD448C%7D%2C1%22&encodeFailures=1&width=1675&height=943&srcWidth=1920&srcHeight=1080)
 ### 2.3.2. User Task Matrix
+ 
+<table>
+    <thead>
+        <tr>
+            <td rowspan=2 align="center">User Task</td>
+            <td align="center" colspan= 2>User Solicitante</td>
+            <td align="center" colspan= 2>User Donante</td>
+        </tr>
+        <tr>
+            <td align="center">Frecuencia</td>
+            <td align="center">Requerido</td>
+            <td align="center">Frecuencia</td>
+            <td align="center">Requerido</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Investigar cómo reciclar dispositivos electrónicos en su comunidad.</td>
+            <td align="center">Alta</td>
+            <td align="center">Alta</td>
+            <td  align="center">Baja</td>
+            <td  align="center">Media</td>
+        </tr>
+        <tr>
+            <td align="center">Clasificar y separar los dispositivos electrónicos no utilizados en su hogar.</td>
+            <td align="center">Media</td>
+            <td align="center">Alta</td>
+            <td  align="center">Media</td>
+            <td  align="center">Baja</td>
+        </tr>
+        <tr>
+             <td align="center">Encontrar puntos de recolección de dispositivos electrónicos en su área.</td>
+            <td align="center">Media</td>
+            <td align="center">Alta</td>
+            <td  align="center">Alta</td>
+            <td  align="center">Alta</td>
+        </tr>
+        <tr>
+            <td align="center">Aprender sobre los materiales valiosos que se pueden recuperar del reciclaje de dispositivos electrónicos.</td>
+            <td align="center">Alta</td>
+            <td align="center">Media</td>
+            <td  align="center">Alta</td>
+            <td  align="center">Alta</td>
+        </tr>
+        <tr>
+            <td align="center">Comprender la importancia de reciclar dispositivos electrónicos para reducir desechos electrónicos.</td>
+            <td align="center">Alta</td>
+            <td align="center">Alta</td>
+            <td  align="center">Media</td>
+            <td  align="center">Alta</td>
+        </tr>
+                <tr>
+            <td align="center">Identificar los dispositivos electrónicos que son reciclables y los que no lo son.</td>
+            <td align="center">Media</td>
+            <td align="center">Media</td>
+            <td  align="center">Media</td>
+            <td  align="center">Alta</td>
+        </tr>
+                <tr>
+            <td align="center">Conocer las regulaciones locales sobre el reciclaje de dispositivos electrónicos.</td>
+            <td align="center">Media</td>
+            <td align="center">Alta</td>
+            <td  align="center">Alta</td>
+            <td  align="center">Media</td>
+        </tr>
+                <tr>
+            <td align="center">Investigar cómo eliminar de manera segura la información personal de los dispositivos antes del reciclaje.</td>
+            <td align="center">Media</td>
+            <td align="center">Alta</td>
+            <td  align="center">Baja</td>
+            <td  align="center">Baja</td>
+        </tr>
+                <tr>
+            <td align="center">Donar dispositivos electrónicos funcionales a organizaciones benéficas en lugar de desecharlos.</td>
+            <td align="center">Media</td>
+            <td align="center">Alta</td>
+            <td  align="center">Baja</td>
+            <td  align="center">Alta</td>
+        </tr>
+                <tr>
+            <td align="center">Recopilar información sobre los programas de recompensas por reciclaje de dispositivos electrónicos.</td>
+            <td align="center">Media</td>
+            <td align="center">Alta</td>
+            <td  align="center">Baja</td>
+            <td  align="center">Media</td>
+        </tr>
+                <tr>
+            <td align="center">Participar en una campaña de concientización sobre el reciclaje de dispositivos electrónicos.</td>
+            <td align="center">Media</td>
+            <td align="center">Media</td>
+            <td  align="center">Media</td>
+            <td  align="center">Alta</td>
+        </tr>
+                <tr>
+            <td align="center">Investigar cómo se reacondicionan y reutilizan los dispositivos electrónicos reciclados.</td>
+            <td align="center">Media</td>
+            <td align="center">Alta</td>
+            <td  align="center">Media</td>
+            <td  align="center">Alta</td>
+        </tr>
+                <tr>
+            <td align="center">Asistir a charlas educativas sobre el impacto del reciclaje de dispositivos electrónicos.</td>
+            <td align="center">Baja</td>
+            <td align="center">Alta</td>
+            <td  align="center">Baja</td>
+            <td  align="center">Media</td>
+        </tr>
+</table>
+
 ![](https://lh3.googleusercontent.com/pw/AP1GczPSxiYB6oKH4y-2zWfxCKMMU-kVR_HiK2YxfUqsqA7W4baQdYauUbul7aK2IEsI5iCFcDrNm7mOEAWS_Wl0mK8gWPAM7xUCDFrihofvlUjKsGSIoZAAjQRj6B0gaLDcFvKXNciDmoxHvFyYdx7Qy5uXRMVb2r68qu_pufZx68U1yoWZRoc6-vtD8sAhAjhQf7liWu4VfDg1M14hnL-7iPJY4VbC4MTWofLbkmJMzYJej0QJ1VD2omkUP-VLyrePDkBtKZ3hlXha0Tt3Dpv90Qk2EF_8QDZ_woxRsPoDgn1wWjDW5nJ384Nb0gN_sXQZBBub7WhpGFh-Inx7gFR8p4GUkm_ps7CLcXbTFaWdj_W_yJTaS2MR6xJRMUD4Vwdwo8vLu2LNHUdF9q9HDTm0wpyT50aAvz-i4zMD4rrVW6p78Qdk9iskP2AfJnemRWJNB2TIjjVwrInQu464wiLorOe6F-MXLnmjZyTdyQ7KI0uQG6O_SIHmxnF8R5OzQJdQsPfqveahBwAbu4p9uhX4BxfqU40_YhJtmJGQq9hcdhsMoWM9pHskVlK66euroXSR8Ga-vMFue6krH3yzh-GsB3z4k-RNl-2MnLhVRiXHv95kPjlZSjzgDPDKgPGFqB7vJPVGzT2i1Gn1JkLERtOoKeA2TKhNdqZ_-jsQ4YSWviHwwztHup8c9cv81CMj3rtB84PfmOtsZcEX4YD1NWg7IZ2Ki4Rn_r_uI3iC1AsgMaLO_PQ_3nr-9-aDvJVZh9q9e1QFVCrp8_LLvQozjQy80OPjRkQaiMzcJCX0czjFd6B4Pwx797fvJQ_0YqeUoBoPCbFpvSQ7qY1-sJn_r651zQEcquBsq8xXLRTW9H9SB7k8uyOc9H2QQCFT2EHCiwSnA8FtpdvluV99Bca4AFfCYz8v7yDtsKfpZ9i3MhhgsGQKIFS0cQxA9viY5Xg=w742-h636-s-no?authuser=0)
 ### 2.3.3. User Journey Mapping
+
+![Journey Map](/./images/JouneyMap.PNG)
+
 ![](https://lh3.googleusercontent.com/pw/AP1GczOZGvFiLNHQkIl9kxL9WCvzfhS-OY_fwU3gFdJ5JzpuztTuKqgattsWJVcRBlAT37S9IOlI1gg0zPzNo-poDCwMcT-TMf4gGD2jsQnp7js-y8XfsMwv-EyARvy6OWNeIHL2pHuJVQZbU8Hto43BUB4InvnD7PvIYbmFWImi2uaS7puLM6bIu-9WqDRQMygDeBL45vOnNMj36nQHD8VWJHOLJHNPC8w25VZ-Ar8tf_YpUcxQzfBqygBA5Osy3eOyFQBsl1GVS4BCFqtkMljvIMcfDKgg5U01CdtuDbiOB6_Atep82SenXbLUV-q_lWzuu_MoQL5f1kGvj5REhAErKKt4fD6LdxQ38cO-LbZgqb_MR5fuocZh1Ob7SH1Gv32Uxj0FypwiGp4tfvxcDxP8ifaNx7nfM0y3OJMOUyKQJcK5PS_WyiRqnJhVezZZ4VUXxZUCXvQl4Dv_iMJTR2iTqWTNbyJtePWMumUo18-IUIfu8EPb9wLepderCxAdBIR8hZ7tKBf2Rfudj6PGsK7AFzXrQEyH1P7OJGKvW9kKyVEScf4g55N313gkW0wFnAwlcd0nM7_r3yaXuF_yw8Rpk6ih3MAd_P09A6BN9T0wlRdj-9Eqh16thNO96cunFywJAtWqYgerVHAEEFtLvKquy9E7b1Lb8ye37MCox-APfa35Y8Ek3cY5jvZj8tg7hqyby0uQ_e7hwqnL4FXb7Tw1zEDqZUrLsYc1gh8UQp0uyJb3-EZWXC4xgCeDRDZKcTW1AmrvPLrQHV752fYslDokXtATrx63kmAufbLjCKKB7LCXRyql4cMShNnds_Nrynzx5b2gojD3mwfRmdUC-_c5D0BzOO53tIYU1bOm9nNuA6aO34hbAnR3ni2UTYZRvIyOnY9r7KSaAUUkqqmoDrB4MaBdb4lH9LsJPp-4tZk89DlUDHh22qDw81_Rcg=w1280-h541-s-no?authuser=0)
 
 ### 2.3.4. Empathy Mapping
+
+#### 2.3.4.1 Empathy Mapping Donante
+
+![Empathy Mapping 1](/./images/EmphatyDonante.PNG)
+
+#### 2.3.4.2 Empathy Mapping Solicitante
+
+![Empathy Mapping 2](/./images/EmphatySolicitante.PNG)
+
 ![](https://lh3.googleusercontent.com/pw/AP1GczNB7NYJoHLBbDAl9Iau4u82NaAE45nV8QYubCTvoWeCvuRIjsNfva04Fl_cuUHAr8qBDfwdsgetseadfY50o5L2AEHpyacp2BEjGvWeJJUZqRMQxwOWnfqkjTiuFsHNu9WA5MZnvBEEAtYZ3lvsJoBjOHDMRW2VTwTT73DtZ9Usxv4X_xDdA6X4PZgldPeF3qSO3ffeARI-TThQGCZ1QsoAJU5nziY-Is3BRgbl5mr1XX9SbW9PTJI1zpUwWZwK20ou7IeLFRtQRKQfHCXS9My0PIERgZ_TxtKuqnJSq2dAtS8fRhJcrBvQamjeIRfO0KsN-e9WDVcGl7vrwCF4BtzllV9o4Co-a1Y88SVWC-3y6ug7HHDHVDBy9J8-RgX-sPloMIN0k3H_laQtvWawsWwnuUozMxu-MY_jv5o-AcF9H7aYizvTLVfGLCqyDM8IpTZ8xUFdqUzPxkQmjRKRQYQK78cGiiHOwqoNg_N4Gr2ki9pozCXb29sK-h-rrbcnhUiR7BYIFsbQ8WIuIRY_RVUx9ozEJi05VzPQB-E09yuSKkFg5QdeepCogyfqhmRyMb304ZaJ7fvpNkGr67XlLFrq9hDly8jCw9yRx8uaO73iOEMiU-NhwNuPBl60cBnis7HPzanYSueA4__LVlv15ON7z9Or1KmMv5jV4Qr5xls83mHV6GZiS0217Kh9svmOQ1wXkOn574MS-A9Ur-TdKhcA_-lzDdiS0sKKuzxQ6OZsWla6cqzsV2wOf8eoZTlfcjAVkupqGmAf4qi8HSL5Utv7jzuLB6fsLM9Fm2YnWMr5Z9nA0d4qUMMqtxrqu65Bg_qM8oVjwLjftJ-qEz0CBhEO-vFH1cSSwj_SJFiShkhkQRuZbdhPjBfuX0VEGtRw4ui5cd54PRh_i30L8tjh6FGFnsTKfBWNVElB2skgIIa0US4NZ7_l3An-RCU=w1024-h768-s-no?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPLfFGRsdFhxdPwxM0X4rYmGZyGrLF2_G4O3SYOKaLWhaSn5i8jJsgTGqDqh0XAPdi77kUzdaP5ONpm9xXnWYhIL5xRtGkvaya1oZba-T-nYf294PBGWhrj3kSiYIqsDvuNj99AqCcp_mnAAPJW9n74BlStDbyGVMvqFFOHqLRomdU9vxoWBmmYlDzRTp7nWFvvw24JylUmUusyPT50EMWGAgzRLDPQDkpL2yq7FeYGKFh9VpDWu6VMrnWCGlrmseYBVTgM_nXzMTiwWCwG0qRLB0aqu1P8deQyngnu9XBHv63L2ZYSBMF03v8O5kzLL3DhbQIbyKC2nwRtETW5yHtEbXlgBcHGhEYvipgJnFKSCPG_p2LliTSsmWIurftsWrVpml_7X0TUblSb-C4vrsaOf_CqTPq0wW3fGHqAnJcqd8KIHdf_9iwlmAewbYKXQTj8YM362044ZSteV2McyKj8n5sz-f_FhgvlHYxhtqCrNLVfwRHW3KurUL8QPZ3UoD4FFMO4CNus39pRL87rghwy_e_s0GpBeUPssLNFuz2T2S4zYdFvJLAw_iM7ROA35JgjNXg8LsOA1LJro053bGqOxHbyOZJ1dYZQsLGy_bNFIXy21qHeSkTF0tv7IvoERUQhg722Ys5vyP0hKcccs1EvHSBAuvexQT4_eoDlxymrLq4OeoG65josOARUWcv7i4RtrIE8S5ocvK3UN984HeFnyMCQmaWPNDH4o1X9ZEoD337PVfF7iu-DWxS9baKBUk49lx9yp4IsFXzfVyStNH24Nxy7341TJJ4CN5Q5eBPdFJZYAX5XCSiSgFZgga6T4Iir9glBmAfuVbzyw6yGkFO0Q2MOL_bVe8RWm2zz1_sBkkC0G0LneNWClWgMVj6Wa5kAMcIOjKlT4aWKGsUeFEjdn8X3eoOTtCM9rqUSGx8Ay8QHXoUh1gpcqc0=w1024-h768-s-no?authuser=0)
 ### 2.3.5. As-is Scenario Mapping
+
+#### 2.3.5.1 As-is Scenario Mapping Donante
+
+![As-is Scenario Mapping 1](/./images/As-isDonante.PNG)
+
+#### 2.3.5.2 As-is Scenario Mapping Solicitante
+
+![As-is Scenario Mapping 2](/./images/As-isSolicitante.PNG)
+
 ![](https://lh3.googleusercontent.com/pw/AP1GczOR15SCdrhZ7BZIoju_fLCXI0S0RKAPwNJCxGdU5s8qH6DB9X_Fma5Wpm2bfkdYO7azsaxhZafO4tHQMe_Ua21Z-mbw3PeOG4Vgq6SUsazsniYRilK_b9EkBSeUQ2UeY5m7aFPOnnkAD342-u8m7EjVAkKHG0QrLjTK01g_7fSB7jCnz0czDVMQEzMBPI4AHlwT8HHV37lk8eaKI75BITxl9KCYVaJBokMmb7fxqZf-EK4uWwvEtNqk3_tb3zRAqTfesDFGff2idluTb87g1K242mkkoRSQYpANVPji15R9Fv0PH5T1nIje4cnYl-YxDxvvvcyuHtfYxCgdS3uGQoLfJlny01imVxp_5mmFoM0aQ_voqr0YLWLzabtFMW_cY1MZGm5SJCAZC0-2fLPTNxldDm2UzbbknkD_Da2NdhRbLIphI0uUYP1fJocu5BNU8kGxcNsDSbcOXP9qT3H4eWY963MNFrkgRcpdZAC4NoQzQYrp8p50y09_Q4XxlpAPUHWrE8nfLfRbugUXoAHMBpvp-MSR91_r8LwFfiZ2-rQvdA4CDvB3vfElCbiFf_pBvapL7S8u8MiCV70POGEiBwKyLg8geb3O1Xt3kGPT4iHq-Gj_Ferw1z8D5Zn0xv-aLRdPL22C0GVLh08cvfqBCTPcvC0HO6YRZ9E4H75VX8LizktlOzabBM8gCUnK0vrIMPPJUmR4nOlp03Ibxe6e6gg77qXXTVtZq4LgDmzxR9kxS3wUlXLPo0H5KojNTMOypMX4LXSXgr_THSKNUaWCPAxhytIVuF3KFrVp4zknYYsn8Re7gJvQ9li9xm3UJ-DBqJ4P_llJWMsO6p8UfzRDjcOlbGHPOos00UrKN2SclPQouE2NpPOVNva0kUJ93yUxzK7ZJ85HUZ6Td49wlsfVVtYcQlsx-Av-hbU3JDdEwBOgRQL098AxMPtbD4k=w992-h628-s-no?authuser=0)
 
 # Capítulo IV: Product Design
