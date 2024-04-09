@@ -305,8 +305,6 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Como podemos ayudar a
 ### Users & Customers :
 - Personas que deseen adquirir componentes a un precio accesible.
 - Personas donantes que deseen deshacerse de componentes en desuso.
-### Business Problem :
-- La gestión ineficiente de los desechos electrónicos debido a la falta de regulación y disposición inapropiada está generando contaminación ambiental y problemas de salud pública y creación de oportunidades para personas de bajos recursos.
 ### Hypotheses :
 - Creemos que al proporcionar una plataforma donde los usuarios puedan donar o vender componentes electrónicos, y otros puedan comprarlos a precios accesibles, podremos satisfacer las necesidades de personas de recursos limitados y diferenciarnos en el mercado.
 ### Solution ideas :
