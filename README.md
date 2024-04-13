@@ -445,9 +445,9 @@ Para poder destacar en el mercado, debemos enfrentar las fortalezas de nuestros 
 A partir de la información obtenida mediante las entrevistas realizadas y el análisis realizado, se han determinado las principales características de cada segmento objetivo entrevistado. Con estos datos, se han realizado los User Persona para cada uno de dichos segmentos objetivos, para entender mejor la situación, objetivos, motivaciones, frustraciones y perfil en general de cada uno de ellos.
 Para la elaboración de tales User Persona, se ha utilizado la plataforma UXPressia de manera colaborativa.
 
-![User Persona 1](/./images/user-persona-1.png)
+<img src="images/user-persona-1.png" alt="User Persona 1" style="width: 65;"></img>
 
-![User Persona 2](/./images/user-persona-2.png)
+<img src="images/user-persona-2.png" alt="User Persona 2" style="width: 65;"></img>
 
 ![](https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=png&cs=fFNQTw&docid=https%3A%2F%2Fupcedupe-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!z3XiyfF_kE-JHQExcCmyJQcYfLjTwS5OpvDyTqB9vsKxExbOHz_JQJaay3NAEpdD%2Fitems%2F01NCRFCSLZGKWSK6SVIFBJQYPRECDXLNN5%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvdXBjZWR1cGUtbXkuc2hhcmVwb2ludC5jb21AMGUwY2IwNjAtMDlhZC00OWY1LWEwMDUtNjhiOWI0OWFhMWY2IiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwIiwibmJmIjoiMTcxMjE3ODAwMCIsImV4cCI6IjE3MTIxOTk2MDAiLCJlbmRwb2ludHVybCI6ImtJVXQraDVTeERLRlIvNThqQVBhTTJBVmh3cDBLdlZNK2lKUGlMU1BMUGs9IiwiZW5kcG9pbnR1cmxMZW5ndGgiOiIxMTgiLCJpc2xvb3BiYWNrIjoiVHJ1ZSIsInZlciI6Imhhc2hlZHByb29mdG9rZW4iLCJzaXRlaWQiOiJZemxsTWpjMVkyWXROMlptTVMwMFpqa3dMVGc1TVdRdE1ERXpNVGN3TWpsaU1qSTEiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwibmFtZWlkIjoiMCMuZnxtZW1iZXJzaGlwfHUyMDIxMTYwNzhAdXBjLmVkdS5wZSIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMyMDAxMDYzMmZiY2VAbGl2ZS5jb20iLCJzaWQiOiJjZTI5M2NkYi1lNTcxLTQwM2QtYTFlOS1jZDBlZTY0YmYxODgiLCJ0dCI6IjAiLCJpcGFkZHIiOiIxOTAuMjM5LjEzOS4xOTkiLCJzbmlkIjoiNiIsInN0cCI6InQifQ.LbA7TQMFiHXHIUO8E7rHskJGFUz5iegf8P9I6oPk-WQ&cTag=%22c%3A%7B25AD3279-557A-4241-9861-F1208775B5BD%7D%2C1%22&encodeFailures=1&width=1675&height=943&srcWidth=1920&srcHeight=1080)
 
@@ -673,10 +673,10 @@ Tono de comunicación y lenguaje aplicado:
 
 RecyTech tiene un enfoque serio, formal, respetuoso y sereno. Esto se debe a que al ser una aplicación orientada a ventas y con un enfoque de cuidado al medio ambiente es importante para nosotros que nuestros clientes se sientan cómodos y tengan la confianza de que están usando una aplicación totalmente seria.
 
-### 4.1.2. Web Style Guidelines.
+### 4.1.2. Web Style Guidelines
 
-## 4.2. Information Architecture.
-### 4.2.1. Organization Systems.
+## 4.2. Information Architecture
+### 4.2.1. Organization Systems
 Para la landing page se ha optado por una estructura jerárquica en ambos segmentos objetivos, ya que se tiene una barra de navegación en la parte superior la cual nos llevará a diferentes secciones donde cada una de ellas encapsula información que se relaciona.
 
 Para realizar un inicio de sesión o una creación de cuenta se utiliza una organización lineal, ya que mientras se van llenando los datos , se avanza linealmente hasta concluir dicha funcionalidad.
@@ -693,13 +693,51 @@ En los compradores se utilizan dos tipos de organización, tanto la organizació
 
 Finalmente, en caso de que el usuario quiera realizar otra funcionalidades en común, como por ejemplo editar el perfil, donar producto o cerrar sesión, se mantendrá la organización jerárquica ya que todas esas funciones están debidamente segmentadas.
 
-### 4.2.2. Labeling Systems.
+### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
-### 4.2.4. Searching Systems.
+### 4.2.4. Searching Systems
 
 El sistema de búsqueda para los compradores funcionará de dos formas mediante diferentes filtros que serán marcados antes de realizar alguna búsqueda y mediante el tipeo de algún producto en específico. Como los productos se verán reflejados mediante un catálogo se tomó la decisión de colocar filtros que harán que en el catálogo se muestran solamente los productos en los que el usuario esté interesado, además en caso de no usar los filtros el usuario también podrá tipear algún artefacto en particular y se verá reflejado en el catálogo siempre y cuando el artefacto se encuentre disponible.
 
-### 4.2.5. Navigation Systems.
+### 4.2.5. Navigation Systems
+## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe
+### 4.3.2. Landing Page Mock-up
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
+### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.2. Web Applications Mock-ups
+### 4.4.3. Web Applications User Flow Diagrams
+## 4.5. Web Applications Prototyping
+## 4.6. Domain-Driven Software Architecture
+### 4.6.1. Software Architecture Context Diagram
+
+<img src="images/img-system-context.png" alt="User Persona 1" style="width: 65;"></img>
+
+### 4.6.2. Software Architecture Container Diagrams
+
+<img src="images/img-container.png" alt="User Persona 1" style="width: 65;"></img>
+
+### 4.6.3. Software Architecture Components Diagrams
+
+<img src="images/img-register-component.png" alt="User Persona 1" style="width: 65;"></img>
+
+<img src="images/img-sell-component.png" alt="User Persona 1" style="width: 65;"></img>
+
+<img src="images/img-subscription-component.png" alt="User Persona 1" style="width: 65;"></img>
+
+<img src="images/img-search-component.png" alt="User Persona 1" style="width: 65;"></img>
+
+<img src="images/img-buy-component.png" alt="User Persona 1" style="width: 65;"></img>
+
+<img src="images/img-validation-component.png" alt="User Persona 1" style="width: 65;"></img>
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+### 4.7.2. Class Dictionary
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+
 # Bibliografía
 
 
