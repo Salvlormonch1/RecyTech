@@ -739,7 +739,12 @@ El sistema de búsqueda para los compradores funcionará de dos formas mediante 
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-
+# Capítulo V: Product Implementation, Validation & Deployment.
+##5.1. Software Configuration Management.
+### 5.1.1. Software Development Environment Configuration.
+### 5.1.2. Source Code Management.
+### 5.1.3. Source Code Style Guide & Conventions.
+### 5.1.4. Software Deployment Configuration.
 # Bibliografía
 
 
