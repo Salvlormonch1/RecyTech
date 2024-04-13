@@ -712,25 +712,25 @@ El sistema de búsqueda para los compradores funcionará de dos formas mediante 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
-<img src="images/img-system-context.png" alt="User Persona 1" style="width: 65;"></img>
+<img src="images/img-system-context.png" alt="System Context" style="width: 65;"></img>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-<img src="images/img-container.png" alt="User Persona 1" style="width: 65;"></img>
+<img src="images/img-container.png" alt="Container Diagram" style="width: 65;"></img>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-<img src="images/img-register-component.png" alt="User Persona 1" style="width: 65;"></img>
+<img src="images/img-register-component.png" alt="Register Component" style="width: 65;"></img>
 
-<img src="images/img-sell-component.png" alt="User Persona 1" style="width: 65;"></img>
+<img src="images/img-sell-component.png" alt="Sells Component" style="width: 65;"></img>
 
-<img src="images/img-subscription-component.png" alt="User Persona 1" style="width: 65;"></img>
+<img src="images/img-subscription-component.png" alt="Subscription Component" style="width: 65;"></img>
 
-<img src="images/img-search-component.png" alt="User Persona 1" style="width: 65;"></img>
+<img src="images/img-search-component.png" alt="Search Component" style="width: 65;"></img>
 
-<img src="images/img-buy-component.png" alt="User Persona 1" style="width: 65;"></img>
+<img src="images/img-buy=component.png" alt="Buy Component" style="width: 65;"></img>
 
-<img src="images/img-validation-component.png" alt="User Persona 1" style="width: 65;"></img>
+<img src="images/img-validation-component.png" alt="Validation Component" style="width: 65;"></img>
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
