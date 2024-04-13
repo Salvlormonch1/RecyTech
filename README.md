@@ -742,9 +742,59 @@ El sistema de búsqueda para los compradores funcionará de dos formas mediante 
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+Project Management:
+GitHub es una plataforma en línea que facilita la gestión colaborativa del código entre los miembros del equipo. Utilizando la tecnología de control de versiones Git, permite el seguimiento de modificaciones y versiones del código, mejorando así la organización y el control del trabajo conjunto.
+
+https://github.com/  
+
+Requirements Management:
+Miro es una herramienta de gestión de requisitos que permite a los equipos visualizar, colaborar y organizar los requisitos del proyecto de manera efectiva. Facilita la creación de diagramas, mapas mentales y tableros que ayudan a definir y mantener los requisitos del proyecto de manera clara y accesible para todos los miembros del equipo.
+
+https://miro.com/   
+
+Product UX/UI Design:
+Figma proporciona una plataforma para el diseño de interfaces, permitiendo trabajar en aspectos visuales como colores, imágenes y formas para crear aplicaciones. Además, facilita la creación de prototipos interactivos que simulan la experiencia del usuario, contribuyendo al desarrollo y refinamiento del proyecto.
+
+https://www.figma.com/    
+
+Software Development:
+HTML y CSS son tecnologías fundamentales en el desarrollo web. HTML se encarga de definir la estructura y organización del contenido en las páginas web, mientras que CSS se utiliza para dar estilo y presentación a ese contenido. Juntos, aseguran que el contenido esté bien organizado y visualmente atractivo en la web.
+
+https://es.wikipedia.org/wiki/HTM L
+https://es.wikipedia.org/wiki/CSS 
+
+Software Testing:
+En el proceso de testing de software, herramientas como Selenium, Appium y Cypress son útiles para la automatización de pruebas de aplicaciones web y móviles. Estas herramientas permiten realizar pruebas exhaustivas que garantizan la calidad y el rendimiento del producto final.
+
+https://es.wikipedia.org/wiki/Selenium 
+
+Software Deployment:
+Para el despliegue de software, herramientas como Docker, Kubernetes y Terraform son útiles para automatizar la instalación y configuración de aplicaciones en diferentes entornos. Estas herramientas facilitan el despliegue rápido y confiable de software en entornos locales, en la nube o en servidores dedicados.
+
+https://es.wikipedia.org/wiki/Docker_(software) 
+
+Software Documentation:
+Markdown es una opción versátil y efectiva para la documentación de software, que permite escribir manuales de usuario, guías de instalación y documentación técnica de manera clara y concisa. Con su sintaxis sencilla y legible, Markdown facilita la creación de documentos bien estructurados y fácilmente legibles para desarrolladores y usuarios finales.
+
+https://es.wikipedia.org/wiki/Markdown 
+
+
 ### 5.1.2. Source Code Management.
+Explicaremos nuestra estrategia de gestión de código fuente para el proyecto, crucial para rastrear y controlar cambios hechos por el equipo. Hemos optado por crear un repositorio en GitHub para este propósito, tanto para el informe como para la landing page. Esto asegura la coherencia del proyecto y facilita la colaboración entre los miembros del equipo, aprovechando las herramientas y funcionalidades ofrecidas por GitHub para una gestión eficiente del proyecto.
+
+https://github.com/Salvlormonch1/RecyTech 
+
 ### 5.1.3. Source Code Style Guide & Conventions.
+En nuestra Landing Page, hemos integrado elementos HTML y estilos CSS siguiendo las mejores prácticas de diseño. Para estructurar el contenido, utilizamos etiquetas de encabezado HTML como <h1> para los títulos principales y <p> para los párrafos. Además, hemos empleado atributos como HTML Style para personalizar el aspecto visual, definiendo propiedades como color, tamaño de fuente y tipo de letra.
+
+Para resaltar elementos importantes, hemos aplicado HTML Text Formatting, incluyendo etiquetas como <b> para negrita, <strong> para resaltado y <del> para mostrar cambios de precios. En cuanto a la navegación, hemos implementado una barra de navegación horizontal utilizando CSS para mejorar la experiencia del usuario al explorar el contenido.
+
+Los formularios, creados con CSS, permiten a los usuarios ingresar información relevante, como detalles de inicio de sesión, información de pago y dirección de envío. Para añadir interactividad, hemos agregado botones con efectos hover utilizando CSS y paginación CSS para facilitar la navegación entre las diferentes páginas de productos.
+
+Finalmente, en el footer, hemos incluido enlaces a las redes sociales de la organización para brindar a los usuarios una forma adicional de conectarse y seguir nuestras actualizaciones
+
 ### 5.1.4. Software Deployment Configuration.
+Utilizaremos GitHub Pages para alojar nuestra Landing Page. Para lograrlo, subiremos los archivos esenciales (HTML, CSS, etc.) a un repositorio público en GitHub. De esta manera, nuestra página estará disponible en línea y accesible para todos los usuarios.
 # Bibliografía
 
 
