@@ -624,6 +624,8 @@ Para la elaboración de tales User Persona, se ha utilizado la plataforma UXPres
 
 ## [3.3. Impact Mapping.](#impact-mapping)
 
+![Impact mapping](/./images/impactmapping.png)
+
 ## [3.4. Product Backlog.](#product-backlog)
 
 |Orden| User Story ID |Título|Descripción|Story Points|
