@@ -305,8 +305,6 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Como podemos ayudar a
 ### Users & Customers :
 - Personas que deseen adquirir componentes a un precio accesible.
 - Personas donantes que deseen deshacerse de componentes en desuso.
-### Business Problem :
-- La gestión ineficiente de los desechos electrónicos debido a la falta de regulación y disposición inapropiada está generando contaminación ambiental y problemas de salud pública y creación de oportunidades para personas de bajos recursos.
 ### Hypotheses :
 - Creemos que al proporcionar una plataforma donde los usuarios puedan donar o vender componentes electrónicos, y otros puedan comprarlos a precios accesibles, podremos satisfacer las necesidades de personas de recursos limitados y diferenciarnos en el mercado.
 ### Solution ideas :
@@ -447,9 +445,9 @@ Para poder destacar en el mercado, debemos enfrentar las fortalezas de nuestros 
 A partir de la información obtenida mediante las entrevistas realizadas y el análisis realizado, se han determinado las principales características de cada segmento objetivo entrevistado. Con estos datos, se han realizado los User Persona para cada uno de dichos segmentos objetivos, para entender mejor la situación, objetivos, motivaciones, frustraciones y perfil en general de cada uno de ellos.
 Para la elaboración de tales User Persona, se ha utilizado la plataforma UXPressia de manera colaborativa.
 
-![User Persona 1](/./images/user-persona-1.png)
+<img src="images/user-persona-1.png" alt="User Persona 1" style="width: 65;"></img>
 
-![User Persona 2](/./images/user-persona-2.png)
+<img src="images/user-persona-2.png" alt="User Persona 2" style="width: 65;"></img>
 
 ![](https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=png&cs=fFNQTw&docid=https%3A%2F%2Fupcedupe-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!z3XiyfF_kE-JHQExcCmyJQcYfLjTwS5OpvDyTqB9vsKxExbOHz_JQJaay3NAEpdD%2Fitems%2F01NCRFCSLZGKWSK6SVIFBJQYPRECDXLNN5%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvdXBjZWR1cGUtbXkuc2hhcmVwb2ludC5jb21AMGUwY2IwNjAtMDlhZC00OWY1LWEwMDUtNjhiOWI0OWFhMWY2IiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwIiwibmJmIjoiMTcxMjE3ODAwMCIsImV4cCI6IjE3MTIxOTk2MDAiLCJlbmRwb2ludHVybCI6ImtJVXQraDVTeERLRlIvNThqQVBhTTJBVmh3cDBLdlZNK2lKUGlMU1BMUGs9IiwiZW5kcG9pbnR1cmxMZW5ndGgiOiIxMTgiLCJpc2xvb3BiYWNrIjoiVHJ1ZSIsInZlciI6Imhhc2hlZHByb29mdG9rZW4iLCJzaXRlaWQiOiJZemxsTWpjMVkyWXROMlptTVMwMFpqa3dMVGc1TVdRdE1ERXpNVGN3TWpsaU1qSTEiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwibmFtZWlkIjoiMCMuZnxtZW1iZXJzaGlwfHUyMDIxMTYwNzhAdXBjLmVkdS5wZSIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMyMDAxMDYzMmZiY2VAbGl2ZS5jb20iLCJzaWQiOiJjZTI5M2NkYi1lNTcxLTQwM2QtYTFlOS1jZDBlZTY0YmYxODgiLCJ0dCI6IjAiLCJpcGFkZHIiOiIxOTAuMjM5LjEzOS4xOTkiLCJzbmlkIjoiNiIsInN0cCI6InQifQ.LbA7TQMFiHXHIUO8E7rHskJGFUz5iegf8P9I6oPk-WQ&cTag=%22c%3A%7B25AD3279-557A-4241-9861-F1208775B5BD%7D%2C1%22&encodeFailures=1&width=1675&height=943&srcWidth=1920&srcHeight=1080)
 
@@ -596,6 +594,60 @@ Para la elaboración de tales User Persona, se ha utilizado la plataforma UXPres
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczOR15SCdrhZ7BZIoju_fLCXI0S0RKAPwNJCxGdU5s8qH6DB9X_Fma5Wpm2bfkdYO7azsaxhZafO4tHQMe_Ua21Z-mbw3PeOG4Vgq6SUsazsniYRilK_b9EkBSeUQ2UeY5m7aFPOnnkAD342-u8m7EjVAkKHG0QrLjTK01g_7fSB7jCnz0czDVMQEzMBPI4AHlwT8HHV37lk8eaKI75BITxl9KCYVaJBokMmb7fxqZf-EK4uWwvEtNqk3_tb3zRAqTfesDFGff2idluTb87g1K242mkkoRSQYpANVPji15R9Fv0PH5T1nIje4cnYl-YxDxvvvcyuHtfYxCgdS3uGQoLfJlny01imVxp_5mmFoM0aQ_voqr0YLWLzabtFMW_cY1MZGm5SJCAZC0-2fLPTNxldDm2UzbbknkD_Da2NdhRbLIphI0uUYP1fJocu5BNU8kGxcNsDSbcOXP9qT3H4eWY963MNFrkgRcpdZAC4NoQzQYrp8p50y09_Q4XxlpAPUHWrE8nfLfRbugUXoAHMBpvp-MSR91_r8LwFfiZ2-rQvdA4CDvB3vfElCbiFf_pBvapL7S8u8MiCV70POGEiBwKyLg8geb3O1Xt3kGPT4iHq-Gj_Ferw1z8D5Zn0xv-aLRdPL22C0GVLh08cvfqBCTPcvC0HO6YRZ9E4H75VX8LizktlOzabBM8gCUnK0vrIMPPJUmR4nOlp03Ibxe6e6gg77qXXTVtZq4LgDmzxR9kxS3wUlXLPo0H5KojNTMOypMX4LXSXgr_THSKNUaWCPAxhytIVuF3KFrVp4zknYYsn8Re7gJvQ9li9xm3UJ-DBqJ4P_llJWMsO6p8UfzRDjcOlbGHPOos00UrKN2SclPQouE2NpPOVNva0kUJ93yUxzK7ZJ85HUZ6Td49wlsfVVtYcQlsx-Av-hbU3JDdEwBOgRQL098AxMPtbD4k=w992-h628-s-no?authuser=0)
 
+# [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
+## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
+
+## [3.2. User Stories.](#user-stories)
+
+| Epic/Story ID |Titulo|Descripción| Criterios de aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Relacionado con (Epic ID) |
+|---------------|------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| ES01          |Gestión de cuentas en la aplicación|Como usuario comprador / vendedor Quiero poder registrarme, iniciar sesión, cerrar sesión y modificar mis datos personales de mi perfil Para poder tener un control total de mi cuenta.|-|-|
+| ES02          |Venta o donación de artefactos|Venta o donación de artefactos	Como usuario vendedor Quiero tener control de todas las fases de la venta o donación de algún artefacto Para tener un seguimiento total en la aplicación.|-|-|
+| ES03          |Compra de artefactos|Como usuario comprador Quiero tener control de todas las fases de la compra de algún artefacto Para tener un seguimiento tota en el proceso de compra|-|-|
+| US01          |Registro de cuenta de usuario|Como usuario comprador / vendedor no identificado en el sistema Quiero poder registrarme Para hacer uso de la aplicación.|Dado que el usuario quiere registrarse en la aplicación, cuando ingresa sus datos y una contraseña válida y hace clic en “Crear cuenta” entonces su cuenta es creada satisfactoriamente.| EP01                    |
+| US02          |Iniciar sesión|Como usuario comprador / vendedor Quiero poder iniciar sesión para acceder a todas las funcionalidades de la aplicación.|Dado que el usuario quiere iniciar sesión en la aplicación cuando ingresa su ID y su contraseña y  hace clic en “Crear cuenta” y las credenciales son validadas entonces el inicio de sesión es satisfactorio.| EP01                    |
+| US03          |Cerrar sesión|Como usuario comprador / vendedor Quiero poder cerrar mi sesión para mantener la seguridad de mi cuenta.|Dado que el usuario quiere cerrar sesión en la aplicación cuando hace click en la opción de cerrar sesión entonces su sesión finalizara satisfactoriamente.| EP01                    |
+| US04          |Actualizar Perfil|Como usuario comprador / vendedor Quiero poder actualizar los datos de mi perfil Para mantener mis datos personales siempre actualizados.|Dado que el usuario quiere actualizar los datos de su perfil cuando hace click en la opción de Actualizar Perfil y cambia sus datos y luego hace click en aceptar cambios entonces los datos de su perfil se actualizarán satisfactoriamente.| EP01                    |
+| US05          |Agregar cuenta bancaria|Como usuario vendedor Quiero poder agregar cuentas bancarias Para poder recibir el pago de los productos.|Dado que el usuario quiere recibir el dinero de la venta de su artefacto en su cuenta bancaria cuando hace click en la opción agregar cuenta bancaria y digita los datos de su cuenta bancaria y luego hace click en la opción guardar cuenta bancaria entonces su cuenta bancaria se habrá guardado en su cuenta de la aplicación.| EP01                    |
+| US06          |Visualizar estado e información del producto|Como usuario vendedor Quiero visualizar el estado e información de los artefactos que di Para poder hacerles seguimiento.|Dado que el usuario quiere ver la información de su producto y el estado en el que se encuentra cuando va al historial de sus artefactos y selecciona alguno de sus artefactos entonces visualizara la información y el estado de ese artefacto.| EP02                    |
+| US07          |Notificaciones en caso de venta de productos|Como usuario vendedor Quiero recibir notificaciones cada vez que algún artefacto que di se haya vendido Para estar informado en todo momento.|Dado que el usuario quiere recibir alguna notificación cuando su artefacto se haya vendido entonces cada vez que el estado de alguno de sus artefactos cambie, le llegara una notificación en sección de notificaciones de la aplicación.| EP02                    |
+| US08          |Opción de vender Producto|Como usuario vendedor Quiero tener disponible la opción de venta de artefactos Para poder solicitar la venta de mi artefacto electrónico.|Dado que el usuario quiere vender algún artefacto cuando hace click en la opción de venta de artefactos y llena el formulario y hace click en vender entonces su venta será agendada en el sistema.| EP02                    |
+| US09          |Opción de donar Producto|Como usuario comprador / vendedor Quiero tener disponible la opción de donación de artefactos Para poder solicitar la donación de mi artefacto electrónico.|Dado que el usuario quiere donar algún artefacto cuando hace click en la opción de donación de artefactos y llena el formulario y  hace click en donar entonces su donación será agendada en el sistema.| EP02                    |
+| US010         |Opción de suscripción|Como usuario comprador Quiero tener la opción de suscribirme Para tener acceso a todas las funcionalidades de un usuario vendedor.|Dado que el usuario quiere suscribirse para poder realizar ventas cuando ingresa en la sección de suscripciones y hace click en la opción de suscribirse y realice el proceso de suscripción satisfactoriamente entonces la suscripción se verra reflejada en su perfil y tendrá acceso a todas las funcionalidades de suscripción.| EP01                    |
+| US011         |Cancelar suscripcion|Como usuario vendedor Quiero tener la opción de cancelar suscripción Para evitar el cobro en mi tarjeta en caso de que deje de utilizar la aplicación.|Dado que el usuario quiere cancelar su suscripción cuando ingresa en la sección de suscripciones y hace click en la opción de cancelar suscripción entonces la suscripción se cancelará y la suscripción se vera reflejada en el perfil hasta que termine el tiempo programado de la ultima suscripción.| EP01                    |
+| US012         |Visualizar historial de artefactos electrónicos|Como usuario vendedor / comprador Quiero tener la opción de visualizar un historial con todos los artefactos electrónicos que vendí o done Para tener conocimientos sobre todos los artefactos que he dado a la plataforma.|Dado que el usuario quiere ver el historial de artefactos electrónicos que dono o vendió cuando selecciona la sección de historial de artefactos entonces se trasladará a dicha sección donde podrá visualizar todos los artefactos electrónicos donados o vendidos.| EP02                    |
+| US013         |Servicio al cliente|Como usuario comprador / vendedor Quiero tener disponible la opción de comunicarme con soporte Para poder resolver cualquier duda e inconveniente.|Dado que el usuario presenta la necesidad de comunicarse con el área de soporte y servicio técnico cuando selecciona la opción de servicio al cliente entonces podrá visualizar correo y números telefónicos a los cuales podrá contactar.| EP01                    |
+| US014         |Visualizar catálogo de artefactos|Como usuario comprador Quiero tener disponible un catálogo de productos Para revisar los productos disponibles en venta.|Dado que el usuario quiere ver el catálogo de artefactos disponibles cuando selecciona la sección de catálogo de artefactos entonces se trasladará a dicha sección donde podrá visualizar todos los artefactos electrónicos en venta.| EP03                    |
+| US015         |Ver historial de reservas de viaje|Como usuario comprador Quiero tener disponible un carrito de compras donde podre ver los productos en los que estoy interesado Para poder calcular los precios.|Dado que el usuario esta seleccionando los productos que desea comprar cuando hace click en la opción añadir al carrito que esta en cada artefacto del catálogo entonces dicho artefacto se agregara al carrito de compras.| EP03                    |
+| US016         |Comprar producto|Como usuario comprador Quiero tener disponible la opción de comprar los productos en mi carrito Para poder adquirirlos.|Dado que el usuario ya definió los productos que desea comprar cuando se dirige a su carrito y da clic en comprar productos y completa satisfactoriamente el proceso de compra entonces la compra de dicho artefacto se habrá realizado correctamente.| EP03                    |
+| US017         |Sección de productos en demanda|Como usuario vendedor Quiero tener disponible una sección de productos en demanda Para poder revisar si tengo alguno y venderlo.|Dado que el usuario quiere ver cuales son los productos que más se están solicitando para su compra cuando selecciona la sección de productos en demanda entonces se trasladará a dicha sección donde podrá visualizar todos los artefactos electrónicos que mas buscados.| EP02                    |
+
+## [3.3. Impact Mapping.](#impact-mapping)
+
+![Impact mapping](/./images/impactmapping.png)
+
+## [3.4. Product Backlog.](#product-backlog)
+
+|Orden| User Story ID |Título|Descripción|Story Points|
+|-----|---------------|------|-----------|------------|
+|1| US06          |Visualizar estado e información del producto|Como usuario vendedor Quiero visualizar el estado e información de los artefactos que di Para poder hacerles seguimiento.|1|
+|2| US012         |Visualizar historial de artefactos electrónicos|Como usuario vendedor / comprador Quiero tener la opción de visualizar un historial con todos los artefactos electrónicos que vendí o done Para tener conocimientos sobre todos los artefactos que he dado a la plataforma.|1|
+|3| US08          |Opción de vender Producto|Como usuario vendedor Quiero tener disponible la opción de venta de artefactos Para poder solicitar la venta de mi artefacto electrónico.|1|
+|4| US09          |Opción de donar Producto|Como usuario comprador / vendedor Quiero tener disponible la opción de donación de artefactos Para poder solicitar la donación de mi artefacto electrónico.|1|
+|5| US014         |Visualizar catálogo de artefactos|Como usuario comprador Quiero tener disponible un catálogo de productos Para revisar los productos disponibles en venta.|1|
+|6| US015         |Ver historial de reservas de viaje|Como usuario comprador Quiero tener disponible un carrito de compras donde podre ver los productos en los que estoy interesado Para poder calcular los precios.|1|
+|7| US016         |Comprar producto|Como usuario comprador Quiero tener disponible la opción de comprar los productos en mi carrito Para poder adquirirlos.|1|
+|8| US07          |Notificaciones en caso de venta de productos|Como usuario vendedor Quiero recibir notificaciones cada vez que algún artefacto que di se haya vendido Para estar informado en todo momento.|1|
+|9| US017         |Sección de productos en demanda|Como usuario vendedor Quiero tener disponible una sección de productos en demanda Para poder revisar si tengo alguno y venderlo.|1|
+|10| US01          |Registro de cuenta de usuario|Como usuario comprador / vendedor no identificado en el sistema Quiero poder registrarme Para hacer uso de la aplicación.|1|
+|11| US02          |Iniciar sesión|Como usuario comprador / vendedor Quiero poder iniciar sesión para acceder a todas las funcionalidades de la aplicación.|1|
+|12| US03          |Cerrar sesión|Como usuario comprador / vendedor Quiero poder cerrar mi sesión para mantener la seguridad de mi cuenta.|1|
+|13| US04          |Actualizar Perfil|Como usuario comprador / vendedor Quiero poder actualizar los datos de mi perfil Para mantener mis datos personales siempre actualizados.|1|
+|14| US05          |Agregar cuenta bancaria|Como usuario vendedor Quiero poder agregar cuentas bancarias Para poder recibir el pago de los productos.|1|
+|15| US010         |Opción de suscripción|Como usuario comprador Quiero tener la opción de suscribirme Para tener acceso a todas las funcionalidades de un usuario vendedor.|1|
+|16| US011         |Cancelar suscripcion|Como usuario vendedor Quiero tener la opción de cancelar suscripción Para evitar el cobro en mi tarjeta en caso de que deje de utilizar la aplicación.|1|
+|17| US013         |Servicio al cliente|Como usuario comprador / vendedor Quiero tener disponible la opción de comunicarme con soporte Para poder resolver cualquier duda e inconveniente.|1|
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
@@ -623,10 +675,10 @@ Tono de comunicación y lenguaje aplicado:
 
 RecyTech tiene un enfoque serio, formal, respetuoso y sereno. Esto se debe a que al ser una aplicación orientada a ventas y con un enfoque de cuidado al medio ambiente es importante para nosotros que nuestros clientes se sientan cómodos y tengan la confianza de que están usando una aplicación totalmente seria.
 
-### 4.1.2. Web Style Guidelines.
+### 4.1.2. Web Style Guidelines
 
-## 4.2. Information Architecture.
-### 4.2.1. Organization Systems.
+## 4.2. Information Architecture
+### 4.2.1. Organization Systems
 Para la landing page se ha optado por una estructura jerárquica en ambos segmentos objetivos, ya que se tiene una barra de navegación en la parte superior la cual nos llevará a diferentes secciones donde cada una de ellas encapsula información que se relaciona.
 
 Para realizar un inicio de sesión o una creación de cuenta se utiliza una organización lineal, ya que mientras se van llenando los datos , se avanza linealmente hasta concluir dicha funcionalidad.
@@ -643,13 +695,68 @@ En los compradores se utilizan dos tipos de organización, tanto la organizació
 
 Finalmente, en caso de que el usuario quiera realizar otra funcionalidades en común, como por ejemplo editar el perfil, donar producto o cerrar sesión, se mantendrá la organización jerárquica ya que todas esas funciones están debidamente segmentadas.
 
-### 4.2.2. Labeling Systems.
+### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
-### 4.2.4. Searching Systems.
+### 4.2.4. Searching Systems
 
 El sistema de búsqueda para los compradores funcionará de dos formas mediante diferentes filtros que serán marcados antes de realizar alguna búsqueda y mediante el tipeo de algún producto en específico. Como los productos se verán reflejados mediante un catálogo se tomó la decisión de colocar filtros que harán que en el catálogo se muestran solamente los productos en los que el usuario esté interesado, además en caso de no usar los filtros el usuario también podrá tipear algún artefacto en particular y se verá reflejado en el catálogo siempre y cuando el artefacto se encuentre disponible.
 
-### 4.2.5. Navigation Systems.
+### 4.2.5. Navigation Systems
+## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe
+### 4.3.2. Landing Page Mock-up
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
+### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.2. Web Applications Mock-ups
+### 4.4.3. Web Applications User Flow Diagrams
+## 4.5. Web Applications Prototyping
+## 4.6. Domain-Driven Software Architecture
+### 4.6.1. Software Architecture Context Diagram
+
+<img src="images/img-system-context.png" alt="System Context" style="width: 65;"></img>
+
+### 4.6.2. Software Architecture Container Diagrams
+
+<img src="images/img-container.png" alt="Container Diagram" style="width: 65;"></img>
+
+### 4.6.3. Software Architecture Components Diagrams
+
+<img src="images/img-register-component.png" alt="Register Component" style="width: 65;"></img>
+
+<img src="images/img-sell-component.png" alt="Sells Component" style="width: 65;"></img>
+
+<img src="images/img-subscription-component.png" alt="Subscription Component" style="width: 65;"></img>
+
+<img src="images/img-search-component.png" alt="Search Component" style="width: 65;"></img>
+
+<img src="images/img-buy=component.png" alt="Buy Component" style="width: 65;"></img>
+
+<img src="images/img-validation-component.png" alt="Validation Component" style="width: 65;"></img>
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+![ClassDiagram](/./images/ClassDiagram.PNG)
+### 4.7.2. Class Dictionary
+
+| Clase         | Tipo     | Descripcion                                                                                                    |
+| ------------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| RecyTech      | Entidad  | Ejecuta la aplicación y sus funcionalidades con acciones iniciales como creación de cuenta e inició de sesión. |
+| Usuario       | Entidad  | Crea un usuario y le asigna a cada uno un tipo para que pueda realizar las acciones que le corresponden.       |
+| Cliente       | Interfaz | Llama a funciones para que el cliente use la aplicación                                                        |
+| Administrador | Interfaz | Llama a funciones para que el administrador use la aplicación                                                  |
+| Formulario    | Entidad  | Valoracion que tiene cada cliente con suscripcion para crear un formularios de los productos que desea reciclar|
+| Contrato      | Entidad  | Valoracion que tiene el administrador para visualisar los formularios y aceptar o declinar cada uno el mismo   |
+| Pedido        | Entidad  | Valoracion que tiene cada cliente sin necesidad de suscripcion para solictar algun producto                    |
+| Producto      | Entidad  | El objeto que es publicado en base al contrato por el administrador y puede ser pedido por los clientes        |
+| Suscripcion   | Entidad  | Valoracion que tiene cada clientes para solicitar mas funciones para el uso de la aplicacion                   |
+| Pago          | Entidad  | El pago que tendra que reaisar por cada pedido y suscripciones en la aplicacion                                |
+| MetodoPago    | Entidad  | Metodo de pago que tendra cada pago                                                                            |
+
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+![DatabaseDiagram](/./images/DatabaseDiagram.PNG)
+
 # Bibliografía
 
 
