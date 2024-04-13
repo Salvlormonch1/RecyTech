@@ -785,9 +785,9 @@ Explicaremos nuestra estrategia de gestión de código fuente para el proyecto, 
 https://github.com/Salvlormonch1/RecyTech 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
-En nuestra Landing Page, hemos integrado elementos HTML y estilos CSS siguiendo las mejores prácticas de diseño. Para estructurar el contenido, utilizamos etiquetas de encabezado HTML como <h1> para los títulos principales y <p> para los párrafos. Además, hemos empleado atributos como HTML Style para personalizar el aspecto visual, definiendo propiedades como color, tamaño de fuente y tipo de letra.
+En nuestra Landing Page, hemos integrado elementos HTML y estilos CSS siguiendo las mejores prácticas de diseño. Para estructurar el contenido, utilizamos etiquetas de encabezado HTML como "<h1>" para los títulos principales y "<p>" para los párrafos. Además, hemos empleado atributos como HTML Style para personalizar el aspecto visual, definiendo propiedades como color, tamaño de fuente y tipo de letra.
 
-Para resaltar elementos importantes, hemos aplicado HTML Text Formatting, incluyendo etiquetas como <b> para negrita, <strong> para resaltado y <del> para mostrar cambios de precios. En cuanto a la navegación, hemos implementado una barra de navegación horizontal utilizando CSS para mejorar la experiencia del usuario al explorar el contenido.
+Para resaltar elementos importantes, hemos aplicado HTML Text Formatting, incluyendo etiquetas como <b> para negrita, "<strong>" para resaltado y "<del>" para mostrar cambios de precios. En cuanto a la navegación, hemos implementado una barra de navegación horizontal utilizando CSS para mejorar la experiencia del usuario al explorar el contenido.
 
 Los formularios, creados con CSS, permiten a los usuarios ingresar información relevante, como detalles de inicio de sesión, información de pago y dirección de envío. Para añadir interactividad, hemos agregado botones con efectos hover utilizando CSS y paginación CSS para facilitar la navegación entre las diferentes páginas de productos.
 
