@@ -233,7 +233,9 @@ En RecyTech, creemos en el poder de la tecnología para generar un impacto posit
 |<!-- -->|<!-- -->|
 |--------|--------|
 |Nombre|Morales Montalvo, Omar Andrew (U202212383)|
-|Soy Omar Andrew Morales Montalvo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, estoy cursando en quinto ciclo y actualmente tengo 18 años, soy colaborativo, responsable y proactivo, tratando de ayudar a los demás en lo que mi alcance me lo permita. Por ello, actuare de igual manera con mi grupo apoyando en lo más que pueda en los trabajos futuros. ||
+|Soy Omar Andrew Morales Montalvo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, estoy cursando en quinto ciclo y actualmente tengo 18 años, soy colaborativo, responsable y proactivo, tratando de ayudar a los demás en lo que mi alcance me lo permita. Por ello, actuare de igual manera con mi grupo apoyando en lo más que pueda en los trabajos futuros. |
+|Nombre|Chamorro Acero, Salvador Edward (U201914367)|
+|Mi nombre es Salvador Chamorro. Tengo 21 años y soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación e ingeniería de software. Me considero una persona bastante empática y creativa. Considero que mi perfil tiene todo lo necesario para aportar al grupo de trabajo. |
 
 
 ## 1.2. Solution Profile
