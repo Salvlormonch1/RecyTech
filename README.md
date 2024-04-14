@@ -755,7 +755,7 @@ El sistema de búsqueda para los compradores funcionará de dos formas mediante 
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![DatabaseDiagram](/./images/DatabaseDiagram.PNG)
+![DatabaseDiagram](/./images/DatabaseDiagram.png)
 
 # Bibliografía
 
