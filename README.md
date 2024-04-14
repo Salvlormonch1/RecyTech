@@ -935,6 +935,42 @@ Finalmente, en el footer, hemos incluido enlaces a las redes sociales de la orga
 
 ### 5.1.4. Software Deployment Configuration.
 Utilizaremos GitHub Pages para alojar nuestra Landing Page. Para lograrlo, subiremos los archivos esenciales (HTML, CSS, etc.) a un repositorio público en GitHub. De esta manera, nuestra página estará disponible en línea y accesible para todos los usuarios.
+
+## 5.2. Landing Page, Services \& Applications Implementation.
+### 5.2.1. Sprint 1.
+#### 5.2.1.1. Sprint Planning 1.
+
+| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                                          |
+| -------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background       |
+| Date                             | 05/04/2024                                                                                                                                                            |
+| Time                             | 18:00 horas (GMT-5)                                                                                                                                                   |
+| Location                         | Reunión realizada mediante Discord                                                                                                                                    |
+| Prepared By                      | Morales Montalvo, Omar Andrew                                                                                                                                         |
+| PAttendees (to planning meeting) | <li>Chamorro Acero, Salvador Edward</li>	 <li>Jorge Arévalo, Ramón Alejandro</li> <li>Morales Montalvo, Omar Andrew</li> <li>Palomino Fano, Cristhofer Sebastian</li> |
+|Sprint n -1 Review|
+|Resumen| Se creará la organización de RecyTech en Github, se crea las ramas, se separa los trabajos a realizar como entrevistas, wireframe y mock-up                           |
+|Sprint n -1 Retrospective|
+|Resumen| Se implemento para el landing se ha realizado mediante html css y js.                                                                                                 |
+| **Sprint Goal & User Stories**   |
+| Sprint 1 Velocity                | 21 points                                                                                                                                                             |
+| Sum of Story Points              | 21 points                                                                                                                                                             |
+
+#### 5.2.1.2. Sprint Backlog 1.
+
+| id   | Title               | Id  | Title                                               | Description                                                                                                   | Estimations(Hours) | Assigned To | Status(To-do /InProcess/ToReview/Done) |
+| ---- |---------------------| --- |-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------|-------------|---------------------------------------|
+| US01 | Seccion descargar   | UT01 | Sección "descargar"(Desarrollado en HTML y CSS)     | Desarrollo e implementación de los estilos que corresponden a la sección de descargar. Debe ser responsive.   | 3                  | Jorge Arévalo, Ramón Alejandro         | Done                                  |
+| US02 | Seccion Nosotros    | UT02 | Sección "Nosotros"(Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden a la sección de nosotros. Debe ser responsive.    | 2                  | Chamorro Acero, Salvador Edward         | Done                                  |
+| US03 | Seccion Beneficios  | UT03 | Sección "Beneficios"(Desarrollado en HTML y CSS)    | Desarrollo e implementación de los estilos que corresponden a la sección de beneficios. Debe ser responsive.  | 3                  | Jorge Arévalo, Ramón Alejandro         | Done                                  |
+| US04 | Suscripcion         | UT04 | Sección "Suscripcion  "(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a la sección de suscripcion. Debe ser responsive. | 2                  | Morales Montalvo, Omar Andrew        | Done                                  |
+| US05 | Seccion contactenos | UT05 | Sección "Contacto"(Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden a la sección de contactenos. Debe ser responsive. | 3                  | Chamorro Acero, Salvador Edward         | Done                                  |
+| US06 | Barra header        | UT06 | Header responsivos (Desarrollado en HTML y CSS).    | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3                  | Morales Montalvo, Omar Andrew        | Done                                  |
+| US07 | Footer              | UT07 | Footer responsivos (Desarrollado en HTML y CSS).    | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 3                  | Palomino Fano, Cristhofer Sebastian         | Done                                  |
+| US08 | Seccion registro    | UT08 | Sección "Registro"(Desarrollado en HTML y CSS)      | Desarrollo e implementación de un formulario para el registro.                                                | 2                  | Palomino Fano, Cristhofer Sebastian         | Done                                  |
+
+
+
 # Bibliografía
 
 
