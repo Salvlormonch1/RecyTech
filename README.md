@@ -738,6 +738,36 @@ El sistema de búsqueda para los compradores funcionará de dos formas mediante 
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+Los diagramas de flujo de alambre, conocidos como Wireflow Diagrams, desempeñan un papel fundamental en el proceso de diseño y desarrollo de aplicaciones móviles. Permiten una planificación y comunicación efectiva de la estructura y funcionalidad de la aplicación, lo que conduce a una experiencia de usuario más eficiente y satisfactoria. Esta herramienta beneficia tanto a diseñadores como a desarrolladores al facilitar la creación de aplicaciones móviles efectivas y atractivas.
+
+### Diagrama de interacción de registro/inicio de sesión de usuario.
+
+<img src="images/Wireflow-1.png" alt="Inicio de sesión" style="width: 20;"></img>
+
+### Diagrama de interacción de recepción de mensaje acerca de la venta de un dispositivo
+
+<img src="images/Wireflow-2.png" alt="Mensaje de venta" style="width: 20;"></img>
+
+### Diagrama de interacción de venta de dispositivos
+
+<img src="images/Wireflow-3.png" alt="Venta de dispositivos" style="width: 20;"></img>
+
+### Diagrama de interacción de historial de actividad del usuario y estados de dispositivos
+
+<img src="images/Wireflow-4.png" alt="Historial/estados de dispositivos" style="width: 20;"></img>
+
+### Diagrama de interacción del carrito de compra
+
+<img src="images/Wireflow-5.png" alt="Carrito de compra" style="width: 20;"></img>
+
+### Diagrama de interacción del proceso de compra
+
+<img src="images/Wireflow-6.png" alt="Proceso de compra" style="width: 20;"></img>
+
+### Diagrama de interacción de productos de alta demanda
+
+<img src="images/Wireflow-6.png" alt="Productos de alta demanda" style="width: 20;"></img>
+
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
