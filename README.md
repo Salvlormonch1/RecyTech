@@ -236,11 +236,13 @@ En RecyTech, creemos en el poder de la tecnología para generar un impacto posit
 |Soy Omar Andrew Morales Montalvo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, estoy cursando en quinto ciclo y actualmente tengo 18 años, soy colaborativo, responsable y proactivo, tratando de ayudar a los demás en lo que mi alcance me lo permita. Por ello, actuare de igual manera con mi grupo apoyando en lo más que pueda en los trabajos futuros. ||
 
 **Palomino Fano, Cristhofer Sebastian:**
-
+|<!-- -->|<!-- -->|
+|--------|--------|
+|Nombre|Palomino Fano, Cristhofer Sebastian (U20191B600)|
+|Actualmente estudio la carrera de Ingeniería de Software en la universidad UPC. Me comprometo a apoyar y dar todo de mis capacidades a mi equipo y a cumplir con mis deberes en la construcción del proyecto. Tengo conocimientos aprendidos antecesoras a este curso como C++, C#, Python, Java junto a desarrollo de Apis con base de datos con SQL y aprendizaje autónomo sobre ciberseguridad|
 <div style="float: right; margin-left: 10px;">
   <img src="images/Cristhofer.jpg" alt="FOTO Cristhofer" width="80px">
-</div>
-Actualmente estudio la carrera de Ingeniería de Software en la universidad UPC. Me comprometo a apoyar y dar todo de mis capacidades a mi equipo y a cumplir con mis deberes en la construcción del proyecto. Tengo conocimientos aprendidos antecesoras a este curso como C++, C#, Python, Java junto a desarrollo de Apis con base de datos con SQL y aprendizaje autónomo sobre ciberseguridad
+</div>|
 
 ## 1.2. Solution Profile
 ### 1.2.1	Antecedentes y problemática
@@ -498,7 +500,7 @@ Para poder destacar en el mercado, debemos enfrentar las fortalezas de nuestros 
 - **Localidad:** Cercado de Lima
 
 <div style="text-align: center;">
-  <img src="Images/EntrevistaPaola.jpeg" alt="Entrevista Paola" width="500px">
+  <img src="images/EntrevistaPaola.PNG" alt="Entrevista Paola" width="500px">
 </div>
 
 - **Enlace:** https://youtu.be/rgY-aWwnfco?si=gaEih7vGOZAjugb8
