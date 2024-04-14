@@ -696,7 +696,37 @@ En los compradores se utilizan dos tipos de organización, tanto la organizació
 Finalmente, en caso de que el usuario quiera realizar otra funcionalidades en común, como por ejemplo editar el perfil, donar producto o cerrar sesión, se mantendrá la organización jerárquica ya que todas esas funciones están debidamente segmentadas.
 
 ### 4.2.2. Labeling Systems
+
+Para el sistema de encabezados se han seleccionado palabras claves que vayan a atraer la atencion del publico y que ademas puedan resumir perfectamente el contenido al que representan. Si nos dirimos a la barra de navegacion en la superior podremos ver una serie de encabezos que representan perfectamente este sistema.
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Titulo:**
+
+```
+<Title>RecyTech</Title>
+```
+
+**Codificación de carácteres:**
+
+```
+<meta charset="utf-8">
+```
+
+**Descripción:**
+
+```
+<meta name="description" content="UniRider is a web application focused on the retail of rewashed products."/>
+```
+
+**Autor y Derechos de Autor:**
+
+```
+<meta name="author" content="RecyTechr"/>
+
+<meta name="copyright" content="Copyright RecyTech team" />
+
+```
 ### 4.2.4. Searching Systems
 
 El sistema de búsqueda para los compradores funcionará de dos formas mediante diferentes filtros que serán marcados antes de realizar alguna búsqueda y mediante el tipeo de algún producto en específico. Como los productos se verán reflejados mediante un catálogo se tomó la decisión de colocar filtros que harán que en el catálogo se muestran solamente los productos en los que el usuario esté interesado, además en caso de no usar los filtros el usuario también podrá tipear algún artefacto en particular y se verá reflejado en el catálogo siempre y cuando el artefacto se encuentre disponible.
