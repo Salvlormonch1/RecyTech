@@ -432,6 +432,63 @@ form a{
 
 /* 3era Seccion: About us*/
 
+/* Nosotros */
+
+
+.nosotros {
+    margin: 5em 0;
+  }
+  
+  .nosotros h1 {
+    font-size: var(--biggest-font-size);
+    text-align: center;
+    color: #1f7e27;
+  }
+  .nosotros h3 {
+    font-size: 1.5rem;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  
+  .nosotros-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 2em;
+  }
+  
+  .nosotros-card img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 50%;
+  }
+  
+  .nosotros-card {
+    width: 400px;
+    margin: 10px;
+    padding: 20px;
+    border: 5px;
+    border-radius: 30px;
+    box-shadow: 0 2px 5px #aba0a0;
+    text-align: center;
+    background-color: #1f7e27;
+  }
+  
+  @media (max-width: 768px) {
+    .nosotros-card {
+      width: 100%;
+    }
+  }
+  
+  .redes-sociales a {
+    font-size: 20px;
+    margin-right: 10px; 
+    color: #333; /
+  }
+
+/* Fin Nosotros */
+
 /* About Us */
 
 .about-us-page {
