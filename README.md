@@ -490,9 +490,26 @@ Para poder destacar en el mercado, debemos enfrentar las fortalezas de nuestros 
 
 - **Resumen:** En esta entrevista, tenemos a un estudiante universitario del 3er ciclo en la Universidad Tecnológica del Perú en la carrera de Ingeniería Electrónica. Durante la entrevista, se le dio una breve explicacion al entrevistado sobre el servicio de remanufacturacion que ofreceremos en el aplicativo. Al entender la idea, el entrevistado nos explica que le podria interesar la idea para poder conseguir materiales u objetos que necesita para sus proyecto universitarios como personales. En la cual destaca la necesidad de una cocina para su casa, ya que considera que los precios actualmentes son demasiado alevados por motivos de la marca, entre otras rasones. Nos comenta que la aplicacion le podria ser util para conseguir los materiales que solicita. Ademas, bajo sus experiencias previas en linea, nos comenta que al momento de realisar una compra, usualmente le pide consejos a sus amigos para saber si el vendedor es de confiansa y procura no ser estafado bajo otra paginas maliciosas. Para resumir, le parece excelente la idea de nuestra aplicacion y le recomendaria a sus amigos sobre el mismo para apoyar en la idea de reciclaje que estamos abordando.
 
+**Entrevista 2:**
+
+- **Segmento:** Donante
+- **Nombre:** Paola Huallpartupa
+- **Edad:** 16 años
+- **Localidad:** Cercado de Lima
+
+<div style="text-align: center;">
+  <img src="Images/EntrevistaPaola.jpeg" alt="Entrevista Paola" width="500px">
+</div>
+
+- **Enlace:** https://youtu.be/rgY-aWwnfco?si=gaEih7vGOZAjugb8
+
+- **Resumen:** En esta entrevista, tenemos a un escolar de secundaria que tiene familiares que ejercen el servicio de reparacion de objetos. Nos comenta que sus padres al realisar estas reparaciones tienen varios aparatos electricos alrededor de su casa por clientes anteriores que tuvo y no recogieron sus prodcustos reparados. Es por ello, que al entrecistado el entusiasma la idea de contar con esta aplicacion para deshacerse de estos aparatos electricos malogrados y recibir algun beneficio monetario con ello. Ademas, de poder ampliar su casa de estos productos que no reutilisa. Hasta el momento no cuenta con experiencia en venta de productos en linea, pero igualmente le satisface la idea y lo comentara cono todos sus amigos.
+
 ### 2.2.3. Analisis de entrevistas
 
 En la primera entrevista tenemos a un estudiante universitario que nos comenta que podria usarlo para conseguir materiales tecnologicos para sus proyecto univeristarios. Esto nos podria beneficiar para ampliar nuestro segmento empresarial hacia universitarios o hacia talleres locales que solicitan de estos materiales a un precio asequible. Con esto, estariamos tambien maximisando nuestra idea del reciclaje y sostener nuestro producto en el mercado.
+
+En la segunda entrevista tenemos a un estudiante con familiares tecnicos que ofrecen el servicio de reparacion de productos. La parte interesante de la entrevista es cuando nos comenta sobre la cantidad de productos que tienen guardados en su casa que no les son de utilidad y desea desecharlos, pero tiene la preocupacion de tirar sus objetos y dañar el medio ambiente. Ademas por el beneficio que puede conseguir, le parece que nuestra aplicacion podria ayudar mucho y estara esperando con ansias el uso del mismo.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
