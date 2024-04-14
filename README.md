@@ -732,6 +732,9 @@ Para el sistema de encabezados se han seleccionado palabras claves que vayan a a
 El sistema de búsqueda para los compradores funcionará de dos formas mediante diferentes filtros que serán marcados antes de realizar alguna búsqueda y mediante el tipeo de algún producto en específico. Como los productos se verán reflejados mediante un catálogo se tomó la decisión de colocar filtros que harán que en el catálogo se muestran solamente los productos en los que el usuario esté interesado, además en caso de no usar los filtros el usuario también podrá tipear algún artefacto en particular y se verá reflejado en el catálogo siempre y cuando el artefacto se encuentre disponible.
 
 ### 4.2.5. Navigation Systems
+
+El sistema central de navegacion vendria a ser la barra de navegacion ya que mediante esta podremos interactuar y dirigirnos a las diferentes secciones en la pagina web. Lo mismo vendria a ser en el caso del Footer ya que mediante su interacciones podremos navegar en diferentes secciones de la pagina web.
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
