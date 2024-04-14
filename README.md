@@ -707,6 +707,36 @@ El sistema de búsqueda para los compradores funcionará de dos formas mediante 
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+### Diseño para visualizar la donación y la venta de dispositivos..  
+
+<img src="images/registroylogin.png" alt="Registro y login";"></img>
+
+### Diseño para visualizar el historial de dispositivos comprados/donados/vendidos y el estado del dispositivo que se encuentra en venta.
+
+<img src="images/Historial-y-estado.png" alt="Historial y estado" style="width: 20;"></img>
+
+### Diseño de la alta demanda en dispositivos electrónicos.
+
+<img src="images/Demanda.png" alt="alta demanda" style="width: 20;"></img>
+
+### Diseño de la visualización para la donación y la venta de dispositivos. 
+
+<img src="images/Donar-y-comprar.png" alt="Donación y compra" style="width: 20;"></img>
+
+### Diseño para visualizar la fase de compra de los dispositivos.  
+
+<img src="images/Fase-de-compra.png" alt="Fase de compra" style="width: 20;"></img>
+
+### Diseño para visualizar la suscripción actual y los tipos de esta que existen.
+
+<img src="images/Suscripcion.png" alt="System Context" style="width: 20;"></img>
+
+### Diseño para visualizar el soporte que brinda la página.
+
+<img src="images/Soporte.png" alt="System Context" style="width: 20;"></img>
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
