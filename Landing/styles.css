@@ -941,6 +941,172 @@ form a{
     }
 }
 
+/* Suscripciones */
+/*
+  .home__imagen_1 {
+    position: relative;
+    min-height: 100vh;
+    background-position: inherit;
+    background: url(  https://previews.123rf.com/images/cgdeaw/cgdeaw2003/cgdeaw200300098/143169713-s%C3%ADmbolo-de-reciclaje-en-verde-suave-fondo-gr%C3%A1fico-hoja-patr%C3%B3n-verde-plantilla-banner-fondo.jpg)
+    no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+  .home__imagen {
+    position: relative;
+    min-height: 100vh;
+    background-position: inherit;
+    background: url(https://previews.123rf.com/images/andrewrybalko/andrewrybalko2011/andrewrybalko201100040/158629636-s%C3%ADmbolo-verde-de-reciclaje-para-el-mont%C3%B3n-de-basura-de-residuos-de-aparatos-electr%C3%B3nicos-cuidado.jpg)
+    no-repeat;
+    background-size: cover;
+    background-position: center;
+}*/
+.home {
+    position: relative;
+    min-height: 100vh;
+    background: url(https://previews.123rf.com/images/cgdeaw/cgdeaw2003/cgdeaw200300098/143169713-s%C3%ADmbolo-de-reciclaje-en-verde-suave-fondo-gr%C3%A1fico-hoja-patr%C3%B3n-verde-plantilla-banner-fondo.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .home__container {
+    max-width: 60%;
+    margin: 50px auto;
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .home__data {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  
+  .home__data .home__description {
+    font-size: 2.8rem;
+    margin-bottom: 1.5rem;
+    line-height: 2.7rem;
+  }
+  
+  .home__description span {
+    color: #1f7e27;
+  }
+  
+  .home__data p {
+    font-size: 1.5rem;
+  }
+  
+  .home__button {
+    margin-top: 2rem;
+    display: inline-block;
+    background-color: #1f7e27;
+    color: #fff;
+    padding: 0.8rem 1.5rem;
+    border-radius: 3rem;
+    transition: 0.4s;
+  }
+  
+  .home__button:hover {
+    box-shadow: 0 4px 12px hsla(38, 69%, 8%, 0.2);
+  }
+  
+  .tables {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+  }
+  
+  .home__table {
+    width: 45%;
+  }
+  
+  .plan {
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .plan__title {
+    font-size: 8rem;
+    color: #1f7e27;
+  }
+  
+  .plan__value {
+    font-size: 5rem;
+    margin-bottom: 20px;
+  }
+  
+  .plan__features {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+  }
+  
+  .plan__features li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    position: relative;
+  }
+  
+  .plan__features li::before {
+    content: "\2713";
+    color: #1f7e27;
+    font-size: 1.2rem;
+    position: absolute;
+    left: 0;
+  }
+  
+  .subscribe__button {
+    display: inline-block;
+    background-color: #1f7e27;
+    color: #fff;
+    padding: 0.8rem 1.5rem;
+    border-radius: 3rem;
+    transition: 0.4s;
+    text-decoration: none;
+    margin-top: 20px;
+  }
+  
+  .subscribe__button:hover {
+    box-shadow: 0 4px 12px hsla(38, 69%, 8%, 0.2);
+  }
+  
+  .home__footer {
+    display: flex;
+    justify-content: center;
+    column-gap: 0.5rem;
+    font-size: var(--smaller-font-size);
+    align-self: flex-end;
+  }
+  
+  @media (max-width: 606px) {
+    .home__container {
+      position: static;
+      max-width: 100%;
+    }
+    .home__data .home__description {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      font-size: 2.5rem;
+    }
+    .home__data p {
+      font-size: 1rem;
+    }
+    .home {
+      background-size: cover;
+      background-position: center;
+    }
+  }
+  
+  
+  
+/* Suscripciones final */
 footer{
     background: #E4E4E4;
     height: 190px;
