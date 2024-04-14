@@ -439,6 +439,53 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Como podemos ayudar a
 Para poder destacar en el mercado, debemos enfrentar las fortalezas de nuestros competidores y aprovecharnos de sus debilidades. Nuestra startup buscará convertirse en la aplicación de referencia en el mercado de compra y venta de dispositivos y componentes electrónicos. En primer lugar, debemos innovar en la forma de captar potenciales clientes, realizando estrategias de marketing que lleguen al mercado objetivo y atraigan su atención. Podemos hacer esto mediante publicidad en redes sociales y en páginas web. Por otro lado, también es importante establecer alianzas estratégicas con marcas tecnológicas conocidas, lo cual ayudaría tanto a la publicidad de nuestro producto como en el prestigio de nuestra startup, dándole una imagen mucho más seria y profesional. Es esencial también ofrecerle al usuario una experiencia satisfactoria con nuestra aplicación. Las principales estrategias para ello serían desarrollar una interfaz atractiva, fácil de usar, intuitiva y agradable a la vista; además de implementar funcionalidades adicionales para que el usuario se sienta más cómodo utilizando el producto. Entre estas funcionalidades podrían estar los filtros de búsqueda, la posibilidad de revisar las condiciones del dispositivo o componente que se va a comprar, notificaciones y recomendaciones, etc. Finalmente, también es importante ofrecerle una experiencia sobretodo segura y fiable al usuario. Asegurándonos de que los productos que compren lleguen en buenas condiciones y en  las fechas previstas, además de proteger los datos y los medios de pago que los usuarios podrían guardar dentro de la aplicación para realizar las compras más rápidamente.
 
 ## 2.2. Entrevistas
+### [2.2.1 Diseño de entrevistas](#diseño-de-entrevistas)
+**Preguntas dirigidas a personas que serán los compradores:**
+
+1. ¿Qué te parecen los precios que ofertan los aparatos electrónicos actualmente? ¿Por qué?
+2. ¿Qué medidas crees que podrían implementarse para hacer que los aparatos electrónicos sean más accesibles en términos de precios?
+3. ¿Qué opinas sobre el reciclaje de aparatos electrónicos? ¿Apoyas la idea? ¿Por qué?
+4. ¿Comprarías productos reciclados en buen estado para darle algún uso? si ¿Que objetos serían? no ¿Le recomendarías a algún amigo?
+5. ¿Has usado antes alguna aplicación de venta de productos usados o de segunda mano? Si es así, ¿cuál fue tu experiencia?
+6. ¿Qué preocupaciones o dudas tienes al comprar aparatos electrónicos usados a través de una aplicación?
+7. ¿Consideras importante la reputación del vendedor al comprar aparatos electrónicos usados? ¿Qué elementos valoras al evaluar la confiabilidad de un vendedor?
+8. ¿Qué medidas de seguridad o garantías te gustaría que ofreciera una aplicación de reventa de aparatos electrónicos para garantizar la calidad y el funcionamiento de los productos?
+9. ¿Cómo crees que el reciclaje de aparatos electrónicos podría contribuir a la reducción de residuos electrónicos?
+10. ¿Consideras que la compra de productos reciclados es una forma efectiva de reducir el impacto ambiental de nuestros consumos?
+
+**Preguntas dirigidas a personas que desean ser los vendedores:**
+
+1. ¿Tienes algún aparato electrónico dañado o descontinuado en casa al que no le des ningún uso? (si tienes) ¿cuales son? (no tiene) ¿conoces a alguien que tenga?
+2. ¿Crees que los aparatos obsoletos o descontinuados puedan tener algún uso en el presente o en el futuro? (si tiene) ¿Que usó crees que se le puedan dar? (no tiene) (ofrecerle la respuesta con la siguiente pregunta)
+3. ¿Has considerado alguna vez la posibilidad de reparar esos aparatos dañados en lugar de desecharlos?
+4. ¿Crees que la falta de información sobre opciones de reciclaje contribuye a que la gente no recicle sus aparatos electrónicos?
+5. ¿Qué tipo de incentivos crees que podrían motivar a más personas a reciclar sus aparatos electrónicos?
+6. ¿Te tomarías el tiempo de buscar y ofrecer aparatos o componentes electrónicos que no utilices a cambio de una comisión adecuada?
+7. ¿Qué aspectos consideras importantes al elegir una plataforma o aplicación para vender tus aparatos electrónicos usados?
+8. ¿Has utilizado alguna vez aplicaciones o plataformas de reventa de productos electrónicos antes? ¿Qué experiencia tuviste?
+9. ¿Qué te parecería sobre una app que tiene como intención reciclar sus aparatos electrónicos dañados, además de ganar una comisión por su reciclaje en línea?
+10. ¿Qué funcionalidades te gustaría que tenga dicha aplicación, además de la posibilidad de ofrecer tus dispositivos y componentes electrónicos a cambio de una comisión?
+
+### [2.2.2 Registro de entrevistas](#registro-de-entrevistas)
+
+**Segmento objetivo #1: Personas que desean vender o donar artefactos electronicos**
+
+**Segmento objetivo #2: Personas interesadas en encontrar artefactos electronicos de segundo uso o reacondicionados**
+
+**Entrevistado N°3:** Diego Cisnero
+
+**- Sexo:** Masculino
+
+**- Edad:** 24 años
+
+**- Ubicación en la que vive:** Lima
+
+**Acerca de la entrevista:** Estudia Ingenieria de Software en la UPC
+
+Resumen:
+
+El interesado en la compra de artefactos electronicos nos menciona que es un usario activo en el mundo de la tecnologia y que siempre ha tenido el inconveniente con los precios por lo que ha buscando formas de ahorrar dinero pero que realmente no ha encontrado alguna fuente confiable y segura. Por lo que se encuentra emocionado con la propuesta de RecyTech.
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
